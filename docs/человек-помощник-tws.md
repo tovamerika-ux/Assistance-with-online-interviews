@@ -386,7 +386,6 @@ Loopback\Общие требования](#общие-требования)»
     - **mic + remote → Discord**;
   - в **TWS \#1 (через BT-W5 \#1)** слышать **только собеседника**;
   - в **TWS \#2 (через BT-W5 \#2)** — микс Discord.
-
 - Частота: **48 кГц**
 
 ---
@@ -442,7 +441,6 @@ Stereo Input 1.\
 
 - **B1** — Mic only\
   (и это Windows Default Recording Device)
-
 - **B3** — Mic + Remote (для Discord)
 
 ---
@@ -674,7 +672,6 @@ Discord: Output Device =TWS, те же, что и для Phone Link.
     - **mic + remote → Discord**;
   - в **TWS (через BT-W5 )** слышать собеседника из Phone Link и
     Discord;
-
 - Частота: **48 кГц**
 
 ---
@@ -730,7 +727,6 @@ Stereo Input 1.\
 
 - **B1** — Mic only\
   (и это Windows Default Recording Device)
-
 - **B3** — Mic + Remote (для Discord)
 
 ---
@@ -830,7 +826,6 @@ src="../images/человек-помощник/media/image10.png" width="718" />
 
 - loopback ( но конкретно в выбранном нами Arturia MiniFuse 1 эта
   функция есть)
-
 - DSP-микшер
 - stream-функции
 - виртуальные каналы
@@ -907,7 +902,6 @@ ShadowHint оба эти значения неразличимы.
 - Даже гиперкардиоида не “заглушит” голоса за стеной, если они слышны в
   комнате (через дверь/проёмы/отражения). Она *сильнее режет* бок/тыл,
   но магии нет.
-
 - Для максимального отсечения домашнего фона обычно дают лучший эффект:
   динамический + близкая дистанция (10–15 см) + грамотная ориентация
   (нулём диаграммы в сторону двери или откуда идут ненужные голоса) +
@@ -1094,7 +1088,6 @@ no audio interface, 2x BT-W5) из предыдущего раздела 3.1.
     - **mic + remote → Discord**;
   - в **TWS \#1 (через 1Mii BT)** слышать **только собеседника**;
   - в **TWS \#2 (через BT-W5 \#2)** — микс Discord.
-
 - Частота: **48 кГц**
 
 ---
@@ -1150,7 +1143,6 @@ Stereo Input 1.\
 
 - **B1** — Mic only\
   (и это Windows Default Recording Device)
-
 - **B3** — Mic + Remote (для Discord)
 
 ---
@@ -1302,7 +1294,6 @@ audio interface, 1Mii BT, BT-W5) из предыдущего раздела 3.2.
     - **mic + remote → Discord**;
   - в **TWS \#1 (через BT-W5 \#1)** слышать **только собеседника**;
   - в **TWS \#2 (через BT-W5 \#2)** — микс Discord.
-
 - Частота: **48 кГц**
 
 ---
@@ -1358,7 +1349,6 @@ Stereo Input 1.\
 
 - **B1** — Mic only\
   (и это Windows Default Recording Device)
-
 - **B3** — Mic + Remote (для Discord)
 
 ---
@@ -2191,7 +2181,6 @@ A1 (Hardware Out)
 
 - **B1** — mic-only\
   (Windows Default Recording Device)
-
 - **B3** — mic + Teams remote\
   (для Discord)
 
@@ -2232,7 +2221,6 @@ src="../images/человек-помощник/media/image16.png" width="608" />
 ###### OBS
 
 - Mic source: **Voicemeeter Out B1**
-
 - Remote source: **Voicemeeter AUX Input**
 
 ### 4.3. Способ: BT-W5 2 шт, аудио карта без Loopback.
@@ -2420,7 +2408,6 @@ A1 (Hardware Out)
 
 - **B1** — mic-only\
   (Windows Default Recording Device)
-
 - **B3** — mic + Teams remote\
   (для Discord)
 
@@ -2461,5 +2448,4 @@ src="../images/человек-помощник/media/image16.png" width="608" />
 ###### OBS
 
 - Mic source: **Voicemeeter Out B1**
-
 - Remote source: **Voicemeeter AUX Input**

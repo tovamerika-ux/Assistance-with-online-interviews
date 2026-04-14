@@ -315,10 +315,8 @@ Zoom/Teams/Телемост/Phone Link.
     Нормальный сценарий Krisp:
 - в коммуникационном приложении (Teams/Zoom/etc.) в настройках выбрать
   Speaker = **Krisp Speaker**;
-
 - а в Krisp выбрать физическое устройство, куда выводить результат (USB
   Headset и т.п.);
-
 - для приложений без собственных настроек аудио использовать назначение
   устройства вывода на уровне Windows, чтобы направить именно это
   приложение в Krisp Speaker, а не менять системный дефолт глобально. В
@@ -349,7 +347,6 @@ Cancellation** проблема проявляется так:
 - настройка **Voice Cancellation** выполняется успешно;
 - после **перезапуска Krisp** приложение **забывает, что настройка Voice
   Cancellation уже была сделана**;
-
 - интерфейс снова предлагает пройти **Setup Voice Cancellation**;
 - при этом файл записи голоса vc_recording.wav остаётся на диске;
 - в локальной базе Krisp сохраняются признаки успешной настройки:
@@ -361,10 +358,8 @@ Cancellation** проблема проявляется так:
 
 - при запуске **Voicemeeter**, который забирает звук с **Krisp
   Microphone**, в UI Krisp появляется индикатор **HD**;
-
 - это показывает, что аудиообработка и модель Krisp активируются при
   появлении аудиосессии;
-
 - однако сам факт появления **HD** не доказывает, что используется
   именно обученный **Voice Cancellation**, потому что базовое
   шумоподавление может работать и без обучения на голос.
@@ -666,7 +661,6 @@ src="../images/аудио-потоки/media/image8.png" width="608" />
 ###### OBS
 
 - **Mic track**: **Voicemeeter Out B1**
-
 - **Remote track**: **Voicemeeter AUX Input**
 
 ### 3.2. Способ: Teams or Phone Link -> усиленный звук для Shadowhint.
@@ -744,7 +738,6 @@ Voicemeeter Out B2 – сюда подаётся сырой микрофон, к
   - Microphone → Voicemeeter Out B1
 - **Усиление собеседника** происходит **на Virtual Input “Voicemeeter
   Input”** (красный fader)
-
 - Именно поэтому:
   - ShadowHint слышит Teams
   - изменение fader’а **Voicemeeter Input** напрямую влияет на
@@ -983,7 +976,6 @@ Voicemeeter AUX Input.
 - **усилить микрофон**
 - раздать **усиленный remote-звук Teams (изолированный от системных
   звуков)** в:
-
   - **Discord**
   - **Sobes Copilot**
   - **OBS**
@@ -1198,7 +1190,6 @@ Stereo Input 1 = Krisp Microphone
 - **B1 = ON** (mic-only)
 - **B3 = ON** (чтобы микрофон мог попасть в Discord-микс при
   необходимости)
-
 - **A1 = OFF** (чтобы не слышать свой голос)
 
 Stereo Input 2 = USBC Headset Mic (RAW)
@@ -1383,7 +1374,6 @@ Headset)
 - ShadowHint Remote/System = **после шумодава Krisp**
 - OBS Desktop Audio / Sobes Copilot Remote/System = **после шумодава
   Krisp**
-
 - Усиление post-Krisp — **в Voicemeeter** (фейдером входа кабеля)
 
 #### Главная жёсткая оговорка (в этом варианте)
