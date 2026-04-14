@@ -1,0 +1,38 @@
+@startuml
+title Hardware wiring (Teams + Discord, no Phone Link; HW: audio interface, 2x BT-W5)
+left to right direction
+skinparam componentStyle rectangle
+
+rectangle "XLR Mic" as MIC
+rectangle "Audio Interface\n(MiniFuse / Scarlett / UMC / etc.)" as IFACE
+rectangle "PC / Windows" as PC
+
+rectangle "Creative BT-W5 #1\n(USB)" as BTW5_1
+rectangle "TWS #1\n(Teams monitoring)" as TWS1
+
+rectangle "Creative BT-W5 #2\n(USB)" as BTW5_2
+rectangle "TWS #2\n(Discord monitoring)" as TWS2
+
+MIC --> IFACE : XLR
+IFACE --> PC : USB
+
+BTW5_1 --> PC : USB
+PC --> BTW5_1 : USB audio
+BTW5_1 --> TWS1 : BT audio
+
+BTW5_2 --> PC : USB
+PC --> BTW5_2 : USB audio
+BTW5_2 --> TWS2 : BT audio
+
+note bottom of TWS1
+TWS #1 is listening only.
+Mic is NOT taken from 
+BT device.
+end note
+
+note bottom of TWS2
+TWS #2 is Discord output
+only. Mic is NOT taken 
+from BT device.
+end note
+@enduml

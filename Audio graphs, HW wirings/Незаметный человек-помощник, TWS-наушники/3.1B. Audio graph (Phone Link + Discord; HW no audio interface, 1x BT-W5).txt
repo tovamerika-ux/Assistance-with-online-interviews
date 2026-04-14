@@ -1,0 +1,65 @@
+@startuml 
+title Audio graph (Phone Link + Discord; HW: no audio interface, 1x BT-W5)
+
+/' MIC chain '/
+rectangle "USB Microphone" as USBMIC
+rectangle "Krisp Microphone" as KRISP_MIC
+rectangle "VM HW In 1 (Krisp Microphone)" as VM_HW1
+
+/' System / Phone Link '/
+rectangle "Voicemeeter Input\n-Windows Default Playback Device" as VM_INPUT
+rectangle "Phone Link remote audio" as PL_REMOTE
+
+/' Buses '/
+rectangle "Voicemeeter Out B1 (Mic only)\n-Windows Default Recording Device" as VM_B1
+rectangle "Voicemeeter Out B3 (Mic + Remote)" as VM_B3
+
+/' Headphones + BT adapter '/
+rectangle "VM A1 Out -> BT-W5 -> TWS\n(Calls + Discord)" as A1_CALLS
+
+/' Discord '/
+rectangle "Discord Output\n(device = BT-W5 / TWS)" as DISCORD
+
+/' Other apps '/
+rectangle "Sobes Copilot" as SOBES
+rectangle "OBS" as OBS
+
+rectangle "ShadowHint Mic\n(from Default Recording)" as SH_MIC
+rectangle "ShadowHint Remote\n(WASAPI loopback from Default Playback)" as SH_REMOTE
+
+' Mic chain
+USBMIC --> KRISP_MIC
+KRISP_MIC --> VM_HW1
+
+' Remote chain
+PL_REMOTE --> VM_INPUT
+
+' Voicemeeter routing
+VM_HW1 --> VM_B1
+VM_HW1 --> VM_B3
+
+VM_INPUT --> SOBES
+VM_INPUT --> OBS
+VM_INPUT --> VM_B3
+VM_INPUT --> A1_CALLS
+
+' Consumers
+VM_B1 --> SOBES
+VM_B1 --> OBS
+
+VM_B3 --> DISCORD
+
+' ShadowHint paths
+VM_B1 --> SH_MIC
+VM_INPUT --> SH_REMOTE
+
+note as NOTE_CALLS
+TWS (Calls + Discord):
+do NOT route mic to A1
+Monitor remote only via
+Voicemeeter Input -> A1
+end note
+
+A1_CALLS .. NOTE_CALLS
+
+@enduml

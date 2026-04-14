@@ -1,0 +1,283 @@
+Скрипт предназначен для мониторинга, анализа и контроля уровня громкости устройств воспроизведения в Windows 11.
+
+Что делает скрипт:
+=1. Непрерывно отслеживает уровень громкости для двух устройств воспроизведения:
+   - физическая гарнитура, имя которой содержит "USBC Headset"
+   - виртуальное устройство Voicemeeter Input
+
+=2. При запуске проверяет уровень громкости и состояние mute для каждого устройства.
+   Если уровень громкости меньше целевого — устанавливает целевой уровень.
+   Если устройство заглушено (muted) — снимает заглушение (unmute).
+   Для обоих устройств коррекция выполняется всегда, без условий.
+
+   Целевые уровни по умолчанию:
+   - USBC Headset:     100% (может быть изменён пользователем в процессе работы, см. =7)
+   - Voicemeeter Input: 100% (фиксировано, не меняется через интерактив)
+
+=3. Фиксирует любое изменение уровня громкости и пишет это в лог-файл.
+
+=4. Пытается определить наиболее вероятный источник изменения уровня громкости. Почему вероятный, а не 100%-й см. в файле "ChangePlaybackVolumeDetector Ограничения.txt".
+
+=5. Выводит в консоль и логирует:
+   - имя устройства воспроизведения
+   - предыдущее и новое значение громкости
+   - текущую настройку Windows Communications ducking
+   - likely source
+   - confidence
+   - other candidates
+   - список активных аудиосессий на endpoint
+   - список подозрительных процессов, запущенных в момент события
+
+=6. Воспроизводит звуковой сигнал при каждом зафиксированном изменении громкости.
+
+=7. При необходимости автоматически восстанавливает уровень громкости до целевого значения.
+   Для USBC Headset и Voicemeeter Input целевые уровни независимы друг от друга.
+   Изменение таргета для USBC Headset не влияет на таргет Voicemeeter Input.
+
+=8. Интерактивное изменение целевого уровня для USBC Headset
+
+Каждый раз, когда скрипт фиксирует изменение уровня на USBC Headset и восстанавливает его,
+в консоли появляется предложение изменить целевой уровень:
+
+   Current target: 100%. Press Y to change target, or wait...
+   8... 7... 6... 5... 4... 3... 2... 1...
+   Target unchanged: 100%
+
+Если в течение таймаута (по умолчанию 8 секунд) нажать Y:
+
+   Enter new target (1-100): _
+
+После ввода числа и Enter:
+
+   Target updated: 100% -> 63%
+
+С этого момента скрипт держит USBC Headset на новом значении.
+Целевой уровень Voicemeeter Input при этом не изменяется.
+
+Если Y не нажата в течение таймаута — целевой уровень остаётся прежним,
+скрипт продолжает работу в штатном режиме.
+
+Интерактив появляется при каждом изменении уровня на USBC Headset независимо
+от того, был ли уровень изменён кнопками гарнитуры, приложением или вручную.
+
+=9. Отслеживает настройку Windows "Communications" (вкладка "Связь" в mmsys.cpl)
+
+Каждые 30 секунд проверяет настройку через реестр:
+   HKCU:\Software\Microsoft\Multimedia\Audio, значение UserDuckingPreference
+
+   Значения:
+   - 0 = отключить все остальные звуки
+   - 1 = уменьшать громкость других звуков на 80%
+   - 2 = уменьшать громкость других звуков на 50%
+   - 3 = действие не требуется
+
+Если настройка изменилась по сравнению с предыдущей проверкой, скрипт пишет в лог и консоль:
+   Windows Communications ducking setting changed: "reduce by 80%"
+   (или другое актуальное значение)
+
+Текущее значение настройки всегда выводится в каждой записи лога рядом с likely source:
+   Windows Communications ducking: do nothing
+
+=10. Как определяется вероятный источник
+Скрипт использует многоуровневую эвристику.
+
+Приоритеты:
+1. Если у устройства есть активная audio session, она считается наиболее сильной уликой.
+   В этом случае источник может быть определён как:
+   - Teams audio session
+   - Yandex Telemost audio session
+   - Phone Link audio session
+   - Discord audio session
+   - Zoom audio session
+   - Yandex Browser audio session
+   - Chrome audio session
+   - Firefox audio session
+   - Vivaldi audio session
+   - Opera audio session
+   - Microsoft Edge audio session
+   - либо как generic audio session on endpoint
+
+2. Если активной session нет, скрипт проверяет foreground process.
+   Если foreground process — один из системных процессов настройки звука Windows
+   (rundll32.exe, control.exe, SystemSettings.exe),
+   источник определяется как:
+   manual change via Windows sound settings
+   confidence: medium
+
+3. Если rundll32.exe или control.exe запущены в фоне (не foreground):
+   manual change via Windows sound settings or physical device button (heuristic)
+   confidence: low
+
+   Ситуация неоднозначна: либо пользователь изменил уровень в mmsys.cpl и успел
+   переключиться на другое приложение до того, как скрипт обнаружил изменение (полинг
+   каждые 500мс), либо уровень изменили физические кнопки гарнитуры пока mmsys.cpl
+   был открыт в фоне.
+
+   SystemSettings.exe намеренно исключён из фонового списка: Windows 11 держит его
+   в памяти постоянно, что делает его непригодным как сигнал ручного изменения.
+
+   Этот приоритет стоит ВЫШЕ comm-app эвристик (пп. 4–7).
+
+4. Если настройка Windows Communications ducking отличается от "действие не требуется"
+   и запущено хотя бы одно коммуникационное приложение
+   (Teams, Discord, Zoom, Yandex Telemost, Phone Link),
+   источник определяется как:
+   Windows Communications ducking (<значение>) + comm app running (heuristic)
+   confidence: medium
+
+   Коммуникационное приложение — это любое VOIP/conferencing-приложение,
+   которое Windows распознаёт как таковое и может активировать ducking при звонке.
+
+   Техническое замечание: ducking работает на уровне сессий (ISimpleAudioVolume),
+   а не на уровне endpoint master volume. Тем не менее некоторые драйверы и
+   приложения реагируют на события ducking изменением мастер-уровня.
+
+5. Для устройства Voicemeeter Input: если запущен любой процесс Voicemeeter,
+   источник определяется как:
+   Voicemeeter (heuristic)
+
+6. Если Discord запущен, но не имеет активной сессии на данном endpoint:
+   Discord attenuation (heuristic)
+
+   Discord Attenuation (Settings → Voice & Video → Attenuation) снижает
+   громкость других приложений во время звонка. Отсутствие сессии Discord
+   на данном устройстве означает, что Discord выводит звук через другое
+   устройство и при этом может attenuate это.
+
+7. Если запущены отдельные потенциально влияющие приложения:
+   - Teams (heuristic)
+     Teams документально меняет endpoint-уровень гарнитуры во время звонков,
+     в том числе через опцию "Sync device buttons".
+   - Zoom (heuristic)
+   - Yandex Telemost (heuristic)
+
+   Phone Link намеренно исключён из этого списка: он почти всегда запущен в фоне,
+   что делает его бесполезным как эвристический сигнал. Он по-прежнему отображается
+   в running suspects.
+
+8. Для устройства USBC Headset: если нет сессий на endpoint и ни одна из эвристик выше
+   не сработала, источник определяется как:
+   physical device button or manual volume slider (heuristic)
+   confidence: low
+
+   Это означает: кнопки регулировки громкости на гарнитуре (HID → audiodg) или
+   ползунок в mmsys.cpl был передвинут уже после закрытия окна.
+
+9. Браузеры (Yandex Browser, Chrome, Firefox, Vivaldi, Opera, Microsoft Edge)
+   не определяются как likely source только по факту запуска.
+   Без активной audio session они остаются в списках:
+   - other candidates
+   - running suspects
+
+10. Если однозначно определить источник нельзя,
+   скрипт показывает:
+   - likely source: unknown
+   - confidence: low
+   - foreground process
+   - other candidates
+
+Какие процессы учитываются как подозрительные:
+- Teams / ms-teams
+- Discord
+- Zoom
+- все процессы Voicemeeter
+- YandexTelemost
+- PhoneExperienceHost (Phone Link)
+- browser.exe (Яндекс Браузер)
+- chrome
+- firefox
+- vivaldi
+- opera
+- msedge
+- audiodg
+- системные процессы настройки звука Windows
+
+Важно:
+Определение источника не является 100%-точным.
+Скрипт делает вывод по косвенным признакам:
+- audio sessions
+- foreground process
+- запущенные процессы
+- настройка Windows Communications ducking
+Поэтому значения likely source и confidence нужно воспринимать как диагностическую оценку, а не как строгое доказательство.
+
+=11. Формат вывода на экран и в лог-файл
+Особенности группировки вывода:
+1. Одинаковые процессы группируются.
+   Например, вместо множества строк по firefox.exe выводится одна строка с перечнем PID.
+
+2. Если у процесса PID больше трёх и информация выводится на экран,
+   список PID сокращается до компактного вида:
+   firefox.exe pid:6488,... 29676
+
+3. На экран выводятся только:
+   - имя устройства
+   - PID
+   - Windows Communications ducking (текущее значение)
+   - likely source
+   - confidence
+   - foreground process
+   - sessions on endpoint
+   - running suspects
+
+4. Пути к исполняемым файлам на экран не выводятся.
+   Они записываются только в лог-файл.
+
+5. Блок other candidates выводится только в лог-файл,
+   чтобы не перегружать консоль.
+
+Формат записей в лог-файле:
+- если при запуске скрипт обнаружил отклонение (volume < 100% или muted) и исправил его:
+  Playback device: <имя>. State at script startup: volume=<значение>, muted
+  Playback device: <имя>. Script has corrected at startup: volume: <старое> -> <новое>, unmuted
+
+  Если отклонение только по громкости:
+  Playback device: <имя>. State at script startup: volume=<значение>
+  Playback device: <имя>. Script has corrected at startup: volume: <старое> -> <новое>
+
+  Если отклонение только по mute:
+  Playback device: <имя>. State at script startup: volume=100, muted
+  Playback device: <имя>. Script has corrected at startup: unmuted
+
+  Если скрипту не удалось исправить отклонение:
+  Playback device: <имя>. Script has corrected at startup: volume restore failed: remained <значение>
+  или
+  Playback device: <имя>. Script has corrected at startup: unmute failed
+
+- если уровень изменило внешнее приложение или пользователь:
+  Playback device: <имя>. Sound volume level has been changed: <старое значение> -> <новое значение>
+
+- если скрипт восстановил уровень:
+  Playback device: <имя>. Script has restored the level: <текущее значение> -> <новое значение>
+
+- если скрипт попытался восстановить уровень, но фактически он не изменился:
+  Playback device: <имя>. Script attempted to restore the level, but it remained unchanged: <значение>
+
+- если скрипт только наблюдает и не вмешивается:
+  Playback device: <имя>. Script action: monitor-only. Level remains: <значение>
+
+- если скрипт выполнил принудительное выравнивание уровня:
+  Playback device: <имя>. Script has enforced the level: <текущее значение> -> 100
+
+- если скрипт зафиксировал изменение настройки Windows Communications ducking:
+  Windows Communications ducking setting changed: "reduce by 80%"
+  (или другое актуальное значение)
+
+=12. Структура файлов и зависимости
+Скрипт состоит из двух файлов:
+   ChangePlaybackVolumeDetector.ps1  — логика мониторинга устройств воспроизведения
+   AudioUtils.ps1                    — общая библиотека функций, подключается через . "$PSScriptRoot\AudioUtils.ps1"
+
+AudioUtils.ps1 должен находиться в той же папке, что и ChangePlaybackVolumeDetector.ps1.
+AudioUtils.ps1 также используется скриптом ChangeMicVolumeDetector.ps1.
+
+Запуск обоих детекторов одновременно:
+   ChangeRecordPlaybackVolumeDetector.bat — запускает ChangeMicVolumeDetector и ChangePlaybackVolumeDetector
+   в отдельных окнах консоли.
+
+Лог-файл: playback_forensics_log.txt (создаётся в папке скрипта)
+
+Модуль PowerShell AudioDeviceCmdlets.
+   Он нужен для доступа к аудиоустройствам Windows и управления их уровнем громкости.
+   Установка:
+   Install-Module -Name AudioDeviceCmdlets

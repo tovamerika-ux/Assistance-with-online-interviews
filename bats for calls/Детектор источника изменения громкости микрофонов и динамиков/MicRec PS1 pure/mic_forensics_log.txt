@@ -1,0 +1,3029 @@
+﻿2026-03-16 15:38:43  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Sound volume level has been changed: 100 -> 98
+likely source: Teams (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:13724
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  ms-teams.exe pid:17168
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 15:38:43  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Script has restored the level: 98 -> 100
+
+2026-03-16 15:41:26  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Sound volume level has been changed: 100 -> 98
+likely source: Teams (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:13724
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  ms-teams.exe pid:17168
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 15:41:26  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Script has restored the level: 98 -> 100
+
+2026-03-16 15:48:49  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Sound volume level has been changed: 100 -> 98
+likely source: Teams (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:13724
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  ms-teams.exe pid:17168
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  rundll32.exe pid:9080
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 15:48:49  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Script has restored the level: 98 -> 100
+
+2026-03-16 15:55:50  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Sound volume level has been changed: 100 -> 98
+likely source: Teams (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:13724
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  ms-teams.exe pid:17168
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  rundll32.exe pid:9080
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 15:55:50  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Script has restored the level: 98 -> 100
+
+2026-03-16 15:55:52  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 90 -> 98
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:13724
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  ms-teams.exe pid:17168
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  rundll32.exe pid:9080
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 15:55:52  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-16 16:03:15  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 94
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 16:03:15  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 94
+
+2026-03-16 16:11:29  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 94 -> 90
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 16:11:29  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 90
+
+2026-03-16 16:17:16  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 90 -> 98
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 16:17:16  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-16 17:18:24  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 96
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 17:18:24  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 96
+
+2026-03-16 17:45:51  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 96 -> 94
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 17:45:51  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 94
+
+2026-03-16 17:46:11  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 94 -> 92
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  rundll32.exe pid:7912
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14984
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 17:46:11  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 92
+
+2026-03-16 18:01:38  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 92 -> 90
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23060
+  path: C:\Program Files\Krisp\Krisp.exe
+  SystemSettings.exe pid:1564
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:7644
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-16 18:01:38  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 90
+
+2026-03-17 09:44:17  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 90
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:23640
+  path: C:\Program Files\Krisp\Krisp.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 09:44:17  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 90
+
+2026-03-17 10:13:19  Microphone device: Головной телефон (USBC Headset). Current sound volume level at script startup: 90
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 10:13:19  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 90 -> 100
+
+2026-03-17 10:13:26  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 90 -> 100
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 10:13:26  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-17 10:13:38  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 10:13:38  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-17 10:13:41  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 10:13:41  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 98 -> 98
+
+2026-03-17 10:13:53  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:14:03  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:14:13  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:14:23  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:14:34  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:14:44  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:14:54  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:15:04  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:15:14  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:15:23  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:15:34  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:15:44  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:15:54  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:16:05  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:16:15  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:16:25  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:16:35  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:16:45  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:16:55  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:17:05  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:17:15  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:17:27  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:17:38  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:17:49  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:18:00  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:18:11  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:18:21  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:18:31  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:18:43  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:18:53  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:19:04  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:19:18  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:19:30  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:19:43  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:19:56  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:20:08  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:20:21  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:20:33  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:20:44  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:20:55  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:21:07  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:21:18  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:21:29  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:21:40  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:21:51  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:22:01  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:22:12  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:22:23  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 98 -> 100
+
+2026-03-17 10:23:17  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 10:23:17  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-17 10:23:19  Krisp setting changed: Lock microphone volume at optimal level = False
+
+2026-03-17 10:33:23  Microphone device: Головной телефон (USBC Headset). Current sound volume level at script startup: 98
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 10:33:23  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 98 -> 98
+
+2026-03-17 10:33:25  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 10:33:41  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 90
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 10:33:41  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 90
+
+2026-03-17 10:33:51  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 90 -> 100
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 10:33:51  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-17 10:33:53  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-17 10:36:56  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Sound volume level has been changed: 100 -> 91
+likely source: Teams (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  ms-teams.exe pid:5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 10:36:56  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Script has restored the level: 91 -> 100
+
+2026-03-17 10:37:39  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 80
+likely source: Krisp sync or AGC (heuristic)
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  ms-teams.exe pid:5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  rundll32.exe pid:29628
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 10:37:39  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 80 -> 100
+
+2026-03-17 11:15:12  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 93
+likely source: manual change via Windows sound settings
+confidence: medium
+other candidates:
+  audiodg.exe pid:4936
+  firefox.exe pid:11024
+  firefox.exe pid:1308
+  firefox.exe pid:17212
+  firefox.exe pid:17316
+  firefox.exe pid:17856
+  firefox.exe pid:18784
+  firefox.exe pid:27516
+  firefox.exe pid:27956
+  firefox.exe pid:28856
+  firefox.exe pid:29676
+  firefox.exe pid:6488
+  firefox.exe pid:8048
+  Krisp.exe pid:19888
+  ms-teams.exe pid:2544
+  ms-teams.exe pid:5680
+  PhoneExperienceHost.exe pid:5192
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  firefox.exe pid:1308
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:6488
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:8048
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:11024
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:17212
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:17316
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:17856
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:18784
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:27516
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:27956
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:28856
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  firefox.exe pid:29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  ms-teams.exe pid:5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:18380
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 11:15:12  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 93 -> 100
+
+2026-03-17 11:32:48  Microphone device: Головной телефон (USBC Headset). Current sound volume level at script startup: 95
+likely source: manual change via Windows sound settings
+confidence: medium
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 4876, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  Krisp.exe pid:19888
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 4876, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:18380
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 11:32:48  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 95 -> 100
+
+2026-03-17 11:33:00  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: manual change via Windows sound settings
+confidence: medium
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 4876, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  Krisp.exe pid:19888
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 4876, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:18380
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 11:33:00  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 98 -> 98
+
+2026-03-17 11:33:02  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 11:34:02  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: manual change via Windows sound settings
+confidence: medium
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14104, 14512, 15432, 15924, 17112, 18024, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30280, 30480
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  Krisp.exe pid:19888
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14104, 14512, 15432, 15924, 17112, 18024, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30280, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:18380
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 11:34:02  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-17 11:34:04  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-17 11:34:23  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: manual change via Windows sound settings
+confidence: medium
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30280, 30480
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  Krisp.exe pid:19888
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30280, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:18380
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 11:34:23  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 98 -> 98
+
+2026-03-17 11:34:25  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 11:35:34  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 94
+likely source: manual change via Windows sound settings
+confidence: medium
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30280, 30480
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  Krisp.exe pid:19888
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30280, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:18380
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 11:35:34  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 94
+
+2026-03-17 11:36:20  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 94 -> 92
+likely source: manual change via Windows sound settings
+confidence: medium
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30280, 30480
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  Krisp.exe pid:19888
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30280, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:18380
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 11:36:20  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 92
+
+2026-03-17 11:42:03  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-17 11:42:12  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 80 -> 98
+likely source: manual change via Windows sound settings
+confidence: medium
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5132, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  Krisp.exe pid:19888
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5132, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:18380
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 11:42:12  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 98 -> 98
+
+2026-03-17 11:42:15  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 11:44:22  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 96
+likely source: manual change via Windows sound settings
+confidence: medium
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 17832, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 26476, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  Krisp.exe pid:19888
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 17832, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 26476, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1308, 6488, 8048, 11024, 17212, 17316, 17856, 18784, 27516, 27956, 28856, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:18380
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 11:44:22  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 96
+
+2026-03-17 11:58:49  Microphone device: Головной телефон (USBC Headset). Current sound volume level at script startup: 98
+likely source: 
+confidence: 
+foreground process: unknown
+other candidates: none
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14020, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23312, 23496, 24684, 25356, 26404, 27344, 28068, 28940, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 11:58:49  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 98 -> 98
+
+2026-03-17 11:58:52  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 12:07:52  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 80 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15536, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15536, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:07:52  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-17 12:30:38  Microphone device: Головной телефон (USBC Headset). Current sound volume level at script startup: 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480, 30648
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480, 30648
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:30:38  Microphone device: Головной телефон (USBC Headset). Script attempted to restore the level, but it remained unchanged: 98
+
+2026-03-17 12:30:41  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 12:31:19  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 80
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480, 30648
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480, 30648
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:31:19  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 80
+
+2026-03-17 12:31:21  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-17 12:31:30  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 80 -> 100
+
+2026-03-17 12:31:50  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 80
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480, 30648
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480, 30648
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:31:50  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 80 -> 100
+
+2026-03-17 12:33:55  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 13692, 14512, 15432, 15924, 17112, 17804, 18500, 18732, 18772, 18980, 19812, 19884, 22804, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 13692, 14512, 15432, 15924, 17112, 17804, 18500, 18732, 18772, 18980, 19812, 19884, 22804, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:33:55  Microphone device: Головной телефон (USBC Headset). Script attempted to restore the level, but it remained unchanged: 98
+
+2026-03-17 12:33:58  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 12:48:02  Microphone device: Головной телефон (USBC Headset). Current sound volume level at script startup: 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 22836, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 22836, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:48:02  Microphone device: Головной телефон (USBC Headset). Script attempted to restore the level, but it remained unchanged: 98
+
+2026-03-17 12:48:05  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 12:48:14  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 80
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3120, 3964, 4496, 5012, 5832, 8052, 9488, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3120, 3964, 4496, 5012, 5832, 8052, 9488, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:48:14  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 80
+
+2026-03-17 12:48:17  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-17 12:48:26  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 80 -> 100
+
+2026-03-17 12:50:35  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24288, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24288, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:50:35  Microphone device: Головной телефон (USBC Headset). Script attempted to restore the level, but it remained unchanged: 98
+
+2026-03-17 12:50:37  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 12:51:25  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 94
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24288, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24288, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:51:25  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 94
+
+2026-03-17 12:51:36  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 94 -> 92
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24288, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24288, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:51:36  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 92
+
+2026-03-17 12:51:48  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 92 -> 90
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24288, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:28332
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24288, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:19888
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:28332
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 12:51:48  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 90
+
+2026-03-17 12:54:45  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 90 -> 100
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27308, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27308, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 12:54:45  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-17 12:55:06  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 90
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27308, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  ms-teams.exe pid:2544, 5680
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27308, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:17712
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 12:55:06  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 90
+
+2026-03-17 12:57:42  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Sound volume level has been changed: 100 -> 91
+likely source: Teams (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27308, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  Krisp.exe pid:17712
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 26404, 27308, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:17712
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:2544, 5680
+  path: C:\Program Files\WindowsApps\MSTeams_26032.208.4399.5_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 12:57:42  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Script has restored the level: 91 -> 100
+
+2026-03-17 14:53:27  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Sound volume level has been changed: 100 -> 67
+likely source: Teams (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 1764, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18812, 18980, 19812, 19884, 23496, 23868, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  Krisp.exe pid:17712
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:5572
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 1764, 2692, 3964, 4496, 5012, 5832, 8052, 10684, 10884, 11716, 13216, 13452, 13484, 14512, 15432, 15924, 17112, 18500, 18732, 18772, 18812, 18980, 19812, 19884, 23496, 23868, 24684, 25356, 26404, 27344, 28068, 29228, 29340, 29900, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:17712
+  path: C:\Program Files\Krisp\Krisp.exe
+  ms-teams.exe pid:5636, 21156
+  path: C:\Program Files\WindowsApps\MSTeams_26043.2016.4478.2773_x64__8wekyb3d8bbwe\ms-teams.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5572
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 14:53:27  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Script has restored the level: 67 -> 100
+
+2026-03-17 15:33:43  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 90 -> 100
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 3964, 4496, 4564, 5832, 8052, 10884, 11716, 11772, 13484, 14512, 15432, 15924, 16652, 17112, 18500, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 27344, 28068, 29228, 29340, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  PhoneExperienceHost.exe pid:5192
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:9184
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 3964, 4496, 4564, 5832, 8052, 10884, 11716, 11772, 13484, 14512, 15432, 15924, 16652, 17112, 18500, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 27344, 28068, 29228, 29340, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:17712
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:9184
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 15:33:43  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-17 15:33:45  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-17 15:33:55  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 3964, 4496, 4564, 5832, 8052, 10884, 11716, 11772, 13484, 14512, 15432, 15924, 16652, 17112, 18500, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 27344, 28068, 29228, 29340, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  PhoneExperienceHost.exe pid:5192
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:9184
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 3964, 4496, 4564, 5832, 8052, 10884, 11716, 11772, 13484, 14512, 15432, 15924, 16652, 17112, 18500, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 27344, 28068, 29228, 29340, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:17712
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:9184
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 15:33:55  Microphone device: Головной телефон (USBC Headset). Script attempted to restore the level, but it remained unchanged: 98
+
+2026-03-17 15:33:57  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 15:37:01  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 3964, 4496, 5832, 8052, 10884, 11716, 13484, 14512, 15432, 15924, 16652, 17112, 18500, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 27344, 28068, 29228, 29340, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  msedge.exe pid:1528, 1608, 2204, 8184, 14424, 17336, 18360, 24708, 26584, 29136, 30648
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:25068
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:9184
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 3964, 4496, 5832, 8052, 10884, 11716, 13484, 14512, 15432, 15924, 16652, 17112, 18500, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 27344, 28068, 29228, 29340, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:17712
+  path: C:\Program Files\Krisp\Krisp.exe
+  msedge.exe pid:1528, 1608, 2204, 8184, 14424, 17336, 18360, 24708, 26584, 29136, 30648
+  path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:25068
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:9184
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 15:37:01  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-17 15:37:04  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-17 15:37:15  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 3964, 4496, 5832, 8052, 10884, 11716, 13484, 14512, 15432, 15924, 16652, 17112, 18500, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 27344, 28068, 29228, 29340, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  msedge.exe pid:1528, 1608, 2204, 8184, 14424, 17336, 18360, 23048, 24708, 26584, 29136, 30648
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:25068
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+  YandexTelemost.exe pid:9184
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 3964, 4496, 5832, 8052, 10884, 11716, 13484, 14512, 15432, 15924, 16652, 17112, 18500, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 27344, 28068, 29228, 29340, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 17316, 17856, 18784, 20472, 21288, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:17712
+  path: C:\Program Files\Krisp\Krisp.exe
+  msedge.exe pid:1528, 1608, 2204, 8184, 14424, 17336, 18360, 23048, 24708, 26584, 29136, 30648
+  path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:25068
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:9184
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-17 15:37:15  Microphone device: Головной телефон (USBC Headset). Script attempted to restore the level, but it remained unchanged: 98
+
+2026-03-17 15:37:18  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-17 16:24:16  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 96
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4936
+  chrome.exe pid:668, 1300, 3964, 4496, 5832, 6564, 8052, 10884, 11716, 13484, 14408, 14512, 15432, 15924, 17112, 18500, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 25556, 27344, 28068, 29228, 29340, 30480
+  firefox.exe pid:6488, 9080, 11024, 15472, 16024, 17316, 17856, 18784, 22200, 22944, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  msedge.exe pid:6008, 11140, 20844, 21416, 22616, 24056, 25944, 28904
+  PhoneExperienceHost.exe pid:5192
+  rundll32.exe pid:25068
+  SystemSettings.exe pid:26668
+  voicemeeter8x64.exe pid:27660
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4936
+  path: -
+  chrome.exe pid:668, 1300, 3964, 4496, 5832, 6564, 8052, 10884, 11716, 13484, 14408, 14512, 15432, 15924, 17112, 18500, 18772, 18980, 19812, 19884, 23496, 24684, 25356, 25556, 27344, 28068, 29228, 29340, 30480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:6488, 9080, 11024, 15472, 16024, 17316, 17856, 18784, 22200, 22944, 22964, 25220, 27516, 27956, 28856, 29128, 29676
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:17712
+  path: C:\Program Files\Krisp\Krisp.exe
+  msedge.exe pid:6008, 11140, 20844, 21416, 22616, 24056, 25944, 28904
+  path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  PhoneExperienceHost.exe pid:5192
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:25068
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:26668
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:27660
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-17 16:24:16  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 96
+
+2026-03-18 15:56:17  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 96
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10820, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20256, 21192, 22288
+  PhoneExperienceHost.exe pid:16156
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:23888
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10820, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20256, 21192, 22288
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:23888
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 15:56:17  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 96
+
+2026-03-18 15:56:27  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 96 -> 94
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10820, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20256, 21192, 22288
+  PhoneExperienceHost.exe pid:16156
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:23888
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10820, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20256, 21192, 22288
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:23888
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 15:56:27  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 94
+
+2026-03-18 15:56:37  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 94 -> 92
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10820, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20256, 21192, 22288
+  PhoneExperienceHost.exe pid:16156
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:23888
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10820, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20256, 21192, 22288
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:23888
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 15:56:37  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 92
+
+2026-03-18 15:57:04  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 92 -> 90
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10820, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20256, 21192, 22288
+  PhoneExperienceHost.exe pid:16156
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:23888
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10820, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20256, 21192, 22288
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:23888
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 15:57:04  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 90
+
+2026-03-18 16:10:15  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 90 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 3384, 4356, 6644, 7828, 8416, 9204, 9592, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 19648, 20064, 21192, 22288, 22648
+  PhoneExperienceHost.exe pid:16156
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:23888
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 3384, 4356, 6644, 7828, 8416, 9204, 9592, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 19648, 20064, 21192, 22288, 22648
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:23888
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 16:10:15  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-18 16:32:40  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 97
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:1308, 2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 19648, 20064, 21192, 22288, 22648, 25448
+  PhoneExperienceHost.exe pid:16156
+  rundll32.exe pid:22620
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:23888
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:1308, 2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 19648, 20064, 21192, 22288, 22648, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:22620
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:23888
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 16:32:40  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 97
+
+2026-03-18 16:35:16  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 97 -> 90
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 19400, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 19648, 20064, 21192, 22288, 22648, 25448
+  PhoneExperienceHost.exe pid:16156
+  rundll32.exe pid:22620
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:23888
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 19400, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 19648, 20064, 21192, 22288, 22648, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:22620
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:23888
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 16:35:16  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 90
+
+2026-03-18 16:41:17  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 90 -> 97
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 24564
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 19648, 20064, 21192, 22288, 22648, 25448
+  PhoneExperienceHost.exe pid:16156
+  rundll32.exe pid:22620
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:8844
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 24564
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 19648, 20064, 21192, 22288, 22648, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:22620
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:8844
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 16:41:17  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 97
+
+2026-03-18 16:41:27  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 97 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 24564
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 19648, 20064, 21192, 22288, 22648, 25448
+  PhoneExperienceHost.exe pid:16156
+  rundll32.exe pid:22620
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:8844
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 24564
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 19648, 20064, 21192, 22288, 22648, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:22620
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:8844
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 16:41:27  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-18 17:11:37  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 97
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11000, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 23568
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 21192, 22288, 22700, 24552, 25448
+  PhoneExperienceHost.exe pid:16156
+  rundll32.exe pid:22620
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:8844
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11000, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 23568
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 21192, 22288, 22700, 24552, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:22620
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:8844
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 17:11:37  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 97
+
+2026-03-18 17:12:14  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 97 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11000, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 23568
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 21192, 22288, 22700, 24552, 25448
+  PhoneExperienceHost.exe pid:16156
+  rundll32.exe pid:22620
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:8844
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11000, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 23568
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 21192, 22288, 22700, 24552, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:22620
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:8844
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 17:12:14  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-18 17:32:50  Microphone device: Головной телефон (USBC Headset). State at script startup: volume=17, muted
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 23568, 25368
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 21192, 22288, 22700, 24552, 25448
+  PhoneExperienceHost.exe pid:16156
+  rundll32.exe pid:6820
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:8844
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 23568, 25368
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 21192, 22288, 22700, 24552, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:6820
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:8844
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 17:32:50  Microphone device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 17 -> 100, unmuted
+
+2026-03-18 17:33:20  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 9644, 10224, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 20972, 21048, 21084, 21448, 21688, 22368, 22488, 23568, 26732
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 21192, 22288, 22700, 24552, 25448
+  PhoneExperienceHost.exe pid:16156
+  rundll32.exe pid:6820
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:8844
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 9644, 10224, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 20972, 21048, 21084, 21448, 21688, 22368, 22488, 23568, 26732
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 21192, 22288, 22700, 24552, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:6820
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:8844
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 17:33:20  Microphone device: Головной телефон (USBC Headset). Script attempted to restore the level, but it remained unchanged: 98
+
+2026-03-18 17:33:23  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-18 19:22:40  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). State at script startup: volume=6, muted
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 23568, 23968, 25124
+  firefox.exe pid:3456, 4180, 7632, 8324, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 20356, 21192, 22288, 22700, 25448
+  Krisp.exe pid:3420
+  rundll32.exe pid:6820
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:8844
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 23568, 23968, 25124
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8324, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 20356, 21192, 22288, 22700, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:3420
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:6820
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:8844
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 19:22:40  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Script has corrected at startup: volume: 6 -> 100, unmuted
+
+2026-03-23 11:30:32  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 92 -> 90
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  PhoneExperienceHost.exe pid:11148
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:17976
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:1848
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 11:30:32  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 90
+
+2026-03-23 16:21:23  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). State at script startup: volume=20
+likely source: manual change via Windows sound settings
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  Krisp.exe pid:9332
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:22112
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 16:21:23  Microphone device: Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO). Script has corrected at startup: volume: 20 -> 100
+
+2026-03-23 16:22:01  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 16:22:13  Microphone device: Головной телефон (USBC Headset). Script has enforced the level: 90 -> 100
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  PhoneExperienceHost.exe pid:15868
+  rundll32.exe pid:13760
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+
+2026-03-23 16:23:29  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 20
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  PhoneExperienceHost.exe pid:15868
+  rundll32.exe pid:13760
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 16:23:29  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 20 -> 100
+
+2026-03-23 16:26:36  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 40
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  PhoneExperienceHost.exe pid:15868
+  rundll32.exe pid:13760
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 16:26:36  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 40 -> 98
+
+2026-03-23 16:26:39  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 17:07:38  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 17:07:49  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 40 -> 63
+likely source: manual change via Windows sound settings
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 19528, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23372, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  Krisp.exe pid:9332
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 19528, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23372, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 17:07:49  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 63 -> 100
+
+2026-03-23 17:08:15  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: manual change via Windows sound settings
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23372, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25744, 26104
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  Krisp.exe pid:9332
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23372, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25744, 26104
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 17:08:15  Microphone device: Головной телефон (USBC Headset). Script attempted to restore the level, but it remained unchanged: 98
+
+2026-03-23 17:08:17  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 17:18:45  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 17:18:57  Microphone device: Головной телефон (USBC Headset). State at script startup: volume=20
+likely source: manual change via Windows sound settings
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 11496, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23372, 23468, 23604, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25700
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  Krisp.exe pid:9332
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 11496, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23372, 23468, 23604, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25700
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 17:18:57  Microphone device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 20 -> 100
+
+2026-03-23 17:19:12  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 17:19:24  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 11496, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23372, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  PhoneExperienceHost.exe pid:15868
+  rundll32.exe pid:13760
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 11496, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23372, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 17:19:24  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-23 17:47:57  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 17:48:09  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 40
+likely source: manual change via Windows sound settings
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21496, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  Krisp.exe pid:9332
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21496, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 17:48:09  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 40 -> 100
+
+2026-03-23 17:48:23  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 17:48:23  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23416, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24440, 24764, 25036, 25132, 25196, 25564, 26052
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  PhoneExperienceHost.exe pid:15868
+  rundll32.exe pid:13760
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23416, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24440, 24764, 25036, 25132, 25196, 25564, 26052
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 17:48:23  Microphone device: Головной телефон (USBC Headset). Script attempted to restore the level, but it remained unchanged: 98
+
+2026-03-23 18:05:28  Microphone device: Головной телефон (USBC Headset). State at script startup: volume=98
+2026-03-23 18:05:28  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25992
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 21792, 27188, 27520
+  PhoneExperienceHost.exe pid:15868
+  rundll32.exe pid:13760
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25992
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 21792, 27188, 27520
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 18:05:28  Microphone device: Головной телефон (USBC Headset). Script has corrected at startup: volume restore failed: remained 98
+
+2026-03-23 18:06:04  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 18:06:04  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: manual change via Windows sound settings
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25992
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 21792, 27188, 27520
+  Krisp.exe pid:9332
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25992
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 21792, 27188, 27520
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 18:06:04  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-23 18:06:17  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 18:06:17  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25992
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 21792, 27188, 27520
+  PhoneExperienceHost.exe pid:15868
+  rundll32.exe pid:13760
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25992
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 21792, 27188, 27520
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 18:06:17  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-23 19:09:31  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 19:10:07  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 19:10:07  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 6672, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  PhoneExperienceHost.exe pid:15868
+  rundll32.exe pid:13760
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 6672, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 19:10:07  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-23 19:10:27  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 19:10:27  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: manual change via Windows sound settings
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 6672, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  Krisp.exe pid:9332
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 6672, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 19:10:27  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-23 19:10:55  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 19:10:55  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 6672, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 6672, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 19:10:55  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-23 19:11:05  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 19:11:05  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: unknown
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 6672, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  Krisp.exe pid:9332
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 6672, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 19:11:05  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-23 19:12:56  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 19:12:56  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 6672, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 6672, 10048, 11136, 13504, 13916, 14032, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 19:12:56  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-23 19:13:41  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 19:13:41  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: unknown
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 14060, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22368, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25784
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  Krisp.exe pid:9332
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 10048, 11136, 13504, 13916, 14032, 14060, 16632, 19280, 20636, 20736, 21600, 21660, 21848, 22168, 22368, 22668, 22692, 22744, 22888, 23012, 23032, 23468, 23744, 23868, 23968, 24024, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25784
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 10080, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 27188, 27520
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:9332
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 19:13:41  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-23 21:57:27  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 21:57:27  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 4620, 8476, 9988, 10048, 11912, 13504, 13916, 16632, 19280, 20636, 20736, 21660, 21848, 22668, 22692, 22744, 22888, 23468, 23632, 23744, 23968, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 27916, 28480
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 22072, 25208, 26892, 27520, 27608
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 4620, 8476, 9988, 10048, 11912, 13504, 13916, 16632, 19280, 20636, 20736, 21660, 21848, 22668, 22692, 22744, 22888, 23468, 23632, 23744, 23968, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 27916, 28480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 22072, 25208, 26892, 27520, 27608
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:22092
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-23 21:57:27  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-23 21:57:54  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 21:57:54  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: unknown
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 4620, 8476, 9988, 10048, 11912, 13504, 13916, 16632, 18492, 19280, 20636, 20736, 21660, 21848, 22668, 22692, 22744, 22888, 23468, 23632, 23744, 23968, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 27916, 28480
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 22072, 25208, 26892, 27520, 27608
+  Krisp.exe pid:22092
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 4620, 8476, 9988, 10048, 11912, 13504, 13916, 16632, 18492, 19280, 20636, 20736, 21660, 21848, 22668, 22692, 22744, 22888, 23468, 23632, 23744, 23968, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 27916, 28480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 22072, 25208, 26892, 27520, 27608
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:22092
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-23 21:57:54  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-23 21:58:21  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 21:58:21  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 8476, 9988, 10048, 11912, 13504, 13916, 16632, 17716, 19280, 20636, 20736, 21660, 21848, 21900, 22668, 22692, 22744, 22888, 23468, 23744, 23784, 23968, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25664, 27916, 28480
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 22072, 25208, 26892, 27520, 27608
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 8476, 9988, 10048, 11912, 13504, 13916, 16632, 17716, 19280, 20636, 20736, 21660, 21848, 21900, 22668, 22692, 22744, 22888, 23468, 23744, 23784, 23968, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25664, 27916, 28480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 22072, 25208, 26892, 27520, 27608
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:22092
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-23 21:58:21  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-23 21:58:31  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 21:58:31  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: unknown
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 8476, 9988, 10048, 11912, 13504, 13916, 16632, 17716, 19280, 20636, 20736, 21660, 21848, 21900, 22668, 22692, 22744, 22888, 23468, 23744, 23784, 23968, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25664, 27916, 28480
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 22072, 25208, 26892, 27520, 27608
+  Krisp.exe pid:22092
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 8476, 9988, 10048, 11912, 13504, 13916, 16632, 17716, 19280, 20636, 20736, 21660, 21848, 21900, 22668, 22692, 22744, 22888, 23468, 23744, 23784, 23968, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 25664, 27916, 28480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21620, 22072, 25208, 26892, 27520, 27608
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:22092
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-23 21:58:31  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-23 22:03:40  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-23 22:03:49  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-23 22:03:49  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: unknown
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  chrome.exe pid:912, 1288, 3852, 7548, 8476, 9988, 10048, 11912, 12124, 13504, 13916, 16632, 19280, 19460, 20036, 20636, 20736, 21660, 21848, 22668, 22692, 22744, 22888, 23468, 23744, 23968, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 26212, 26304, 27916, 28376, 28480
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21144, 21620, 22072, 25208, 26892, 27520, 27608
+  Krisp.exe pid:22092
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  chrome.exe pid:912, 1288, 3852, 7548, 8476, 9988, 10048, 11912, 12124, 13504, 13916, 16632, 19280, 19460, 20036, 20636, 20736, 21660, 21848, 22668, 22692, 22744, 22888, 23468, 23744, 23968, 24116, 24316, 24420, 24764, 25036, 25132, 25196, 25564, 26212, 26304, 27916, 28376, 28480
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:1596, 2012, 2124, 2680, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19944, 21144, 21620, 22072, 25208, 26892, 27520, 27608
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:22092
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-23 22:03:49  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-24 08:48:13  Microphone device: Krisp Microphone (Krisp Audio). State at script startup: volume=0
+likely source: unknown
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5276
+  Krisp.exe pid:13852
+  PhoneExperienceHost.exe pid:16992
+  SystemSettings.exe pid:14264
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5276
+  path: -
+  Krisp.exe pid:13852
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16992
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:14264
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-24 08:48:13  Microphone device: Krisp Microphone (Krisp Audio). Script has corrected at startup: volume: 0 -> 100
+
+2026-03-24 08:48:34  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-24 08:48:34  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5276
+  PhoneExperienceHost.exe pid:16992
+  SystemSettings.exe pid:14264
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5276
+  path: -
+  Krisp.exe pid:13852
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16992
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:14264
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-24 08:48:34  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-24 08:48:46  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-24 08:48:46  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: unknown
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5276
+  Krisp.exe pid:13852
+  PhoneExperienceHost.exe pid:16992
+  SystemSettings.exe pid:14264
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5276
+  path: -
+  Krisp.exe pid:13852
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16992
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:14264
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-24 08:48:46  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-24 08:56:00  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+
+2026-03-24 08:56:00  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: medium
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5276
+  PhoneExperienceHost.exe pid:16992
+  SystemSettings.exe pid:14264
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5276
+  path: -
+  Krisp.exe pid:13852
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16992
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:14264
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-24 08:56:00  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+
+2026-03-24 08:56:10  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+2026-03-24 08:56:10  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 98 -> 100
+likely source: Krisp sync or AGC (heuristic)
+confidence: medium
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5276
+  PhoneExperienceHost.exe pid:16992
+  SystemSettings.exe pid:14264
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5276
+  path: -
+  Krisp.exe pid:13852
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16992
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:14264
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-24 08:56:10  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 100
+
+2026-03-24 09:05:02  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 80
+likely source: manual change via Windows sound settings
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5276
+  Krisp.exe pid:13852
+  PhoneExperienceHost.exe pid:16992
+  SystemSettings.exe pid:14264
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5276
+  path: -
+  Krisp.exe pid:13852
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:16992
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:12392
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:14264
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2026-03-24 09:05:02  Microphone device: Головной телефон (USBC Headset). Script has restored the level: 80 -> 100
+
+2026-03-29 11:57:41  Microphone device: Головной телефон (USBC Headset). Sound volume level has been changed: 90 -> 98
+likely source: Krisp sync or AGC (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5076
+  firefox.exe pid:3060, 3176, 3596, 8356, 9140, 9532, 12156, 13564, 15128, 16460, 16608, 17444, 18732, 22320, 22736, 26064, 27792, 28872, 40612, 44988, 45636, 45912
+  PhoneExperienceHost.exe pid:37420
+  SystemSettings.exe pid:35268
+  vivaldi.exe pid:3668, 4472, 5564, 16168, 17932, 20172, 28128, 31340, 31872, 32588, 33864, 35680, 36232, 41464, 44820
+  voicemeeter8x64.exe pid:8348
+  YandexTelemost.exe pid:26896
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5076
+  path: -
+  firefox.exe pid:3060, 3176, 3596, 8356, 9140, 9532, 12156, 13564, 15128, 16460, 16608, 17444, 18732, 22320, 22736, 26064, 27792, 28872, 40612, 44988, 45636, 45912
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  Krisp.exe pid:31704
+  path: C:\Program Files\Krisp\Krisp.exe
+  PhoneExperienceHost.exe pid:37420
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:35268
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  vivaldi.exe pid:3668, 4472, 5564, 16168, 17932, 20172, 28128, 31340, 31872, 32588, 33864, 35680, 36232, 41464, 44820
+  path: C:\Users\musor\AppData\Local\Vivaldi\Application\vivaldi.exe
+  voicemeeter8x64.exe pid:8348
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:26896
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-29 11:57:41  Microphone device: Головной телефон (USBC Headset). Script action: monitor-only. Level remains: 98
+

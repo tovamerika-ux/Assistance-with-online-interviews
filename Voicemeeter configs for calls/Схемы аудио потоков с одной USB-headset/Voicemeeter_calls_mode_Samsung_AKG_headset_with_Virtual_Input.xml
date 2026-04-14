@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VBAudioVoicemeeterSettings>
+<VoiceMeeterDeviceConfiguration>
+	<OptionDev mme='1024' wdm='512' ks='512' asio='0' srasio='0' msA1='0.00' msA2='0.00' />
+	<InputDev index='1' type='4' name="Головной телефон (USBC Headset)" />
+	<InputDev index='2' name="-" />
+	<OutputDev index='1' type='4' name="Головной телефон (USBC Headset)" />
+	<OutputDev index='2' name="-" pOut1='0' pOut2='0' pOut3='0' pOut4='0' pOut5='0' pOut6='0' pOut7='0' pOut8='0'  />
+	<MIDIDevIn index='1' name="-" />
+	<MIDIDevIn index='2' name="-" />
+	<MIDIDevOut index='1' name="-" />
+</VoiceMeeterDeviceConfiguration>
+<VoiceMeeterParameters>
+<VoiceMeeterParameters>
+	<LabelStrip1></LabelStrip1>
+	<LabelStrip2></LabelStrip2>
+	<LabelVirtualStrip1></LabelVirtualStrip1>
+	<VMOptions MonitorOnSEL='0' SliderRelative='0' />
+	<Strip index='1' mute='0' vaio='0' solo='0' mono='0' muc='0' busa='0' busb='1' dblevel='2.19' />
+	<Strip index='1' paneltype='1' Panel3Dx='0.000' Panel3Dy='0.000' ColorPanelx='0.000' ColorPanely='0.000' audibility='0.00' />
+	<Strip index='2' mute='0' vaio='0' solo='0' mono='0' muc='0' busa='0' busb='0' dblevel='0.00' />
+	<Strip index='2' paneltype='1' Panel3Dx='0.000' Panel3Dy='0.000' ColorPanelx='0.000' ColorPanely='0.000' audibility='0.00' />
+	<Strip index='3' mute='0' vaio='0' solo='0' mono='0' muc='0' busa='1' busb='0' dblevel='2.61' />
+	<Strip index='3' EQGain1='0.00' EQGain2='0.00' EQGain3='0.00' Panel3Dx='0.000' Panel3Dy='0.000' />
+	<Bus index='1' mute='0' vaio='0' mono='0' cross='0' BusMode='0' EQon='0' SEL='0' monitor='1' dblevel='0.00' />
+	<Bus index='2' mute='0' vaio='0' mono='0' cross='0' BusMode='0' EQon='0' SEL='0' monitor='0' dblevel='0.00' />
+	<LabelBus1></LabelBus1>
+	<LabelVirtualBus1></LabelVirtualBus1>
+</VoiceMeeterParameters>
+<VoiceMeeterMidiMap>
+	<MidiMapName>-noname-</MidiMapName>
+	<MidiMapItem id='InGainFader1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='InGainFader2' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='VInGainFader1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='LRPanIn1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='LRPanIn2' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='LRPanVIn1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='ResetLRPanIn1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='ResetLRPanIn2' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='ResetLRPanVIn1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='InMute1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='InMute2' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='VInMute1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='InSolo1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='InSolo2' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='VInSolo1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='VInMuteC1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='InAudib1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='InAudib2' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='Strip1A1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='Strip1B1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='Strip2A1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='Strip2B1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='Strip3A1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='Strip3B1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='VIn1EQHigh' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='VIn1EQMed' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='VIn1EQBass' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='OutGainFader1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='VOutGainFader1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='OutMute1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='VOutMute1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+	<MidiMapItem id='ToggleABs1' b1='00' b2='00' b3='00' b4='00' b5='00' b6='00' coder='0' ptt='0' feed1='0' feed2='0' omni='0' disabled='0' feedOn='127' feedOff='0'/>
+</VoiceMeeterMidiMap>
+<VBANConfiguration>
+	<VBAN status="0" username="" color="00AA9678" />
+	<VBANStreamIn index='1' in='2' status='0' name='Stream1' ip='' port='6980' NQ='1' />
+	<VBANStreamIn index='2' in='0' status='0' name='Stream2' ip='' port='6980' NQ='1' />
+	<VBANStreamIn index='3' in='0' status='0' name='Stream3' ip='' port='6980' NQ='1' />
+	<VBANStreamIn index='4' in='0' status='0' name='Stream4' ip='' port='6980' NQ='1' />
+	<VBANDataIn index='1' status='0' name='MIDI1' ip='' port='6980' />
+	<VBANCommandIn index='1' status='0' name='Command1' ip='' port='6980' />
+	<VBANStreamOut index='1' bus='0' status='0' name='Stream1' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANStreamOut index='2' bus='0' status='0' name='Stream2' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANStreamOut index='3' bus='0' status='0' name='Stream3' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANStreamOut index='4' bus='0' status='0' name='Stream4' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANDataOut index='1' source='0' status='0' name='MIDI1' ip='' port='6980' />
+</VBANConfiguration>
+</VBAudioVoicemeeterSettings>

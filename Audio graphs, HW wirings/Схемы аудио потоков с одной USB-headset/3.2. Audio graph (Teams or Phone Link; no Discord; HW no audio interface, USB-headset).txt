@@ -1,0 +1,45 @@
+@startuml
+title Audio graph (Teams or Phone Link; no Discord; HW: no audio interface, USB-headset)
+
+skinparam componentStyle rectangle
+
+rectangle "Voicemeeter Input\n-Windows Default Playback Device\n(Fader Gain here amplifies remote\nand affects ShadowHint loopback)" as VM_INPUT
+
+rectangle "Stereo Input 1\n(Krisp Microphone)" as SI1
+rectangle "Stereo Input 2\n(USBC Headset Mic - RAW)" as SI2
+
+rectangle "Voicemeeter Out B1 (Mic only)\n-Windows Default Recording Device" as B1
+rectangle "Voicemeeter Out B2 (RAW mic)\n(Capture device)" as B2
+
+rectangle "A1 -> USBC Headset (Headphones)" as A1
+
+rectangle "Teams Mic IN\n(Microphone device)" as TEAMS_MIC
+rectangle "Teams Speaker OUT\n(Speaker device)" as TEAMS_SPK
+
+rectangle "ShadowHint Remote\n(WASAPI loopback from Default Playback)" as SH_REM
+rectangle "ShadowHint Mic\n(device is selectable)" as SH_MIC
+
+rectangle "Sobes Copilot" as SOBES
+rectangle "OBS" as OBS
+
+' --- Mic path (independent) ---
+SI1 --> B1 : B1 ON (Krisp mic)
+SI2 --> B2 : B2 ON (raw mic)
+
+B1 --> TEAMS_MIC
+
+' --- Remote / speaker path (independent) ---
+TEAMS_SPK --> VM_INPUT : Teams Speaker\n= Voicemeeter Input
+VM_INPUT --> A1
+VM_INPUT --> SH_REM
+
+' --- Distribution ---
+B1 --> SOBES
+B2 --> SOBES : Optional raw mic
+
+B1 --> OBS
+VM_INPUT --> OBS
+VM_INPUT --> SOBES
+
+B1 --> SH_MIC
+@enduml

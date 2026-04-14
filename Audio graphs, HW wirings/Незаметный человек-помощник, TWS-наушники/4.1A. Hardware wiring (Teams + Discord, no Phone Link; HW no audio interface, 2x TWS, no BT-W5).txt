@@ -1,0 +1,27 @@
+@startuml
+title Hardware wiring (Teams + Discord, no Phone Link; HW: no audio interface, 2x TWS, no BT-W5)
+left to right direction
+
+rectangle "USB Mic" as MIC
+rectangle "PC / Laptop" as PC
+
+rectangle "TWS #1\n(Teams monitoring)" as TWS1
+rectangle "TWS #2\n(Discord monitoring)" as TWS2
+
+MIC --> PC : USB
+
+PC --> TWS1 : Bluetooth audio
+PC --> TWS2 : Bluetooth audio
+
+note bottom of TWS1
+Listening only.
+Mic is NOT taken
+from TWS device.
+end note
+
+note bottom of TWS2
+Discord output only.
+Mic is NOT taken
+from TWS device.
+end note
+@enduml

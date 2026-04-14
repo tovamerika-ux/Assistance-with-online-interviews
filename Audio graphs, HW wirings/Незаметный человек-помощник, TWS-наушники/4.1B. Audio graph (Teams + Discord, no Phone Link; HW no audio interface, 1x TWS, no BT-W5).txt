@@ -1,0 +1,62 @@
+@startuml
+title Audio graph (Teams + Discord, no Phone Link; HW: no audio interface, 1x TWS, no BT-W5)
+
+rectangle "USB Microphone" as USBMIC
+rectangle "Krisp Microphone" as KRISP
+
+rectangle "Stereo Input 1\n(Krisp Microphone)" as SI1
+
+rectangle "Voicemeeter AUX Input\n(Teams Speaker device)" as AUX
+rectangle "Voicemeeter Input\n-Windows Default Playback Device" as VM_INPUT
+
+rectangle "Teams remote audio" as TEAMS
+
+rectangle "Voicemeeter Out B1 (Mic only)\n-Windows Default Recording Device" as B1
+rectangle "Voicemeeter Out B3\n(Mic + Teams remote)" as B3
+
+rectangle "A1 -> TWS (Teams)" as A1
+rectangle "Discord Output\n-> TWS" as D_OUT
+
+rectangle "Sobes Copilot\n(Remote = Voicemeeter AUX Input)" as SOBES
+
+rectangle "OBS" as OBS
+
+rectangle "ShadowHint Mic\n(from Default Recording)" as SH_MIC
+rectangle "ShadowHint Remote\n(WASAPI loopback from Default Playback)" as SH_REM
+
+
+USBMIC --> KRISP
+KRISP --> SI1
+
+TEAMS --> AUX
+
+SI1 --> B1
+SI1 --> B3
+
+AUX --> OBS
+AUX --> B3
+
+
+B3 --> D_OUT
+
+B1 --> SOBES
+AUX --> SOBES : Remote-only, amplified
+AUX --> A1
+
+B1 --> OBS
+
+
+B1 --> SH_MIC
+VM_INPUT --> SH_REM
+
+
+note as NOTE_TEAMS
+Teams settings:
+Speaker = Voicemeeter AUX Input
+Microphone = Voicemeeter Out B1
+end note
+
+NOTE_TEAMS .. AUX
+
+
+@enduml

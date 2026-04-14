@@ -1,0 +1,1251 @@
+﻿2026-03-18 19:22:40  Playback device: Головной телефон (USBC Headset). State at script startup: volume=37, muted
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 23568, 23968, 25124
+  firefox.exe pid:3456, 4180, 7632, 8324, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 20356, 21192, 22288, 22700, 25448
+  rundll32.exe pid:6820
+  SystemSettings.exe pid:5000
+  voicemeeter8x64.exe pid:8844
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11568, 11664, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22368, 22488, 23568, 23968, 25124
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8324, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 20356, 21192, 22288, 22700, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:6820
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:8844
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 19:22:40  Playback device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 37 -> 100, unmuted
+
+2026-03-18 19:23:41  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). Sound volume level has been changed: 100 -> 20
+Windows Communications ducking: do nothing
+likely source: Voicemeeter (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:4864
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11568, 11664, 14440, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22256, 22368, 22488, 23568, 23968, 24268
+  firefox.exe pid:3456, 4180, 7632, 8324, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 20356, 21192, 22288, 22700, 25448
+  PhoneExperienceHost.exe pid:16156
+  rundll32.exe pid:6820
+  SystemSettings.exe pid:5000
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:4864
+  path: -
+  chrome.exe pid:2236, 3236, 4356, 6644, 7828, 8416, 9204, 9592, 10224, 11568, 11664, 14440, 15372, 16108, 16640, 16908, 17240, 17352, 18800, 18976, 19284, 19364, 20404, 20784, 20940, 20948, 21048, 21084, 21448, 21688, 22256, 22368, 22488, 23568, 23968, 24268
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:3456, 4180, 7632, 8324, 8356, 9572, 10752, 11396, 14684, 15820, 16520, 17088, 17116, 17184, 17532, 17588, 17764, 17900, 18252, 20064, 20356, 21192, 22288, 22700, 25448
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:16156
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:6820
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:5000
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:8844
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-18 19:23:41  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). Script has restored the level: 20 -> 100
+
+2026-03-23 09:54:59  Playback device: Головной телефон (USBC Headset). State at script startup: volume=14
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:368, 2248, 2772, 4948, 10824, 12356, 12804, 14772, 15584, 18840, 19316, 19448, 21584
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:368, 2248, 2772, 4948, 10824, 12356, 12804, 14772, 15584, 18840, 19316, 19448, 21584
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 09:54:59  Playback device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 14 -> 100
+
+2026-03-23 09:55:11  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 60
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:368, 2248, 2772, 4948, 10824, 12356, 12804, 14772, 15584, 18840, 19316, 19448, 21584
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:368, 2248, 2772, 4948, 10824, 12356, 12804, 14772, 15584, 18840, 19316, 19448, 21584
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 09:55:11  Playback device: Головной телефон (USBC Headset). Script has restored the level: 60 -> 100
+
+2026-03-23 09:55:37  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 96
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:368, 2248, 2772, 4948, 10824, 12356, 12804, 14772, 15584, 18840, 19316, 19448, 21584
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:368, 2248, 2772, 4948, 10824, 12356, 12804, 14772, 15584, 18840, 19316, 19448, 21584
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 09:55:37  Playback device: Головной телефон (USBC Headset). Script has restored the level: 96 -> 100
+
+2026-03-23 09:56:07  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 96
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:368, 2248, 2772, 4948, 10824, 12356, 12804, 14772, 15584, 18840, 19316, 19448, 21584
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:368, 2248, 2772, 4948, 10824, 12356, 12804, 14772, 15584, 18840, 19316, 19448, 21584
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 09:56:07  Playback device: Головной телефон (USBC Headset). Script has restored the level: 96 -> 100
+
+2026-03-23 09:57:10  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 94
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:368, 2248, 2772, 4948, 10824, 12356, 12804, 14772, 15584, 18840, 19316, 19448, 21584, 21784
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:368, 2248, 2772, 4948, 10824, 12356, 12804, 14772, 15584, 18840, 19316, 19448, 21584, 21784
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 09:57:10  Playback device: Головной телефон (USBC Headset). Script has restored the level: 94 -> 100
+
+2026-03-23 10:25:54  Playback device: Головной телефон (USBC Headset). State at script startup: volume=24
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7248, 10824, 12356, 12804, 14664, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 21484, 21784
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7248, 10824, 12356, 12804, 14664, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 21484, 21784
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 10:25:54  Playback device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 24 -> 100
+
+2026-03-23 10:31:23  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 60
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7248, 10824, 12356, 12804, 14664, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 21484, 21784
+  rundll32.exe pid:10608
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7248, 10824, 12356, 12804, 14664, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 21484, 21784
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:10608
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 10:31:23  Playback device: Головной телефон (USBC Headset). Script has restored the level: 60 -> 100
+
+2026-03-23 10:32:14  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 80
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7248, 10824, 12356, 12804, 14664, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 21484, 21784
+  rundll32.exe pid:10608
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7248, 10824, 12356, 12804, 14664, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 21484, 21784
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:10608
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 10:32:14  Playback device: Головной телефон (USBC Headset). Script has restored the level: 80 -> 100
+
+2026-03-23 10:32:25  Target volume changed by user: 100 -> 23
+
+2026-03-23 10:32:25  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). Script has enforced the level: 100 -> 23
+
+2026-03-23 10:32:37  Playback device: Головной телефон (USBC Headset). Script has enforced the level: 100 -> 23
+
+2026-03-23 10:39:13  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 23 -> 43
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7248, 10824, 12356, 12804, 14664, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 21484, 21784
+  rundll32.exe pid:10608
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7248, 10824, 12356, 12804, 14664, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 21484, 21784
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:10608
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 10:39:13  Playback device: Головной телефон (USBC Headset). Script has restored the level: 43 -> 23
+
+2026-03-23 11:09:44  Playback device: Головной телефон (USBC Headset). State at script startup: volume=23
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  rundll32.exe pid:10608
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:10608
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 11:09:44  Playback device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 23 -> 100
+
+2026-03-23 11:09:47  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). State at script startup: volume=23
+Windows Communications ducking: do nothing
+likely source: Voicemeeter (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  PhoneExperienceHost.exe pid:11148
+  rundll32.exe pid:10608
+  SystemSettings.exe pid:6936
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:10608
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 11:09:47  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). Script has corrected at startup: volume: 23 -> 100
+
+2026-03-23 11:11:05  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 80
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  rundll32.exe pid:10608
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:10608
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 11:11:05  Playback device: Головной телефон (USBC Headset). Script has restored the level: 80 -> 100
+
+2026-03-23 11:11:13  Target volume changed by user: 100 -> 56
+
+2026-03-23 11:11:13  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). Script has enforced the level: 100 -> 56
+Windows Communications ducking: do nothing
+likely source: Voicemeeter (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  PhoneExperienceHost.exe pid:11148
+  rundll32.exe pid:10608
+  SystemSettings.exe pid:6936
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:10608
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+
+2026-03-23 11:11:26  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 80
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  rundll32.exe pid:10608
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:10608
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 11:11:26  Playback device: Головной телефон (USBC Headset). Script has restored the level: 80 -> 56
+
+2026-03-23 11:11:34  Target volume changed by user: 56 -> 100
+
+2026-03-23 11:11:34  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). Script has enforced the level: 56 -> 100
+Windows Communications ducking: do nothing
+likely source: Voicemeeter (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  PhoneExperienceHost.exe pid:11148
+  rundll32.exe pid:10608
+  SystemSettings.exe pid:6936
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:10608
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+
+2026-03-23 11:11:47  Playback device: Головной телефон (USBC Headset). Script has enforced the level: 56 -> 100
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  rundll32.exe pid:10608
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:9796
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 3616, 4948, 7624, 9072, 10824, 12356, 12804, 14772, 15584, 16116, 17660, 18840, 19316, 19864, 22524
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:10608
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:9796
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+
+2026-03-23 11:25:28  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 60
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:17976
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 11:25:28  Playback device: Головной телефон (USBC Headset). Script has restored the level: 60 -> 100
+
+2026-03-23 11:25:45  Target volume changed by user: 100 -> 60
+
+2026-03-23 11:25:45  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). Script has enforced the level: 100 -> 60
+Windows Communications ducking: do nothing
+likely source: Voicemeeter (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  PhoneExperienceHost.exe pid:11148
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+
+2026-03-23 11:26:00  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 40
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:17976
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 11:26:00  Playback device: Головной телефон (USBC Headset). Script has restored the level: 40 -> 60
+
+2026-03-23 11:31:54  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 60 -> 41
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:17976
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 11:31:54  Playback device: Головной телефон (USBC Headset). Script has restored the level: 41 -> 60
+
+2026-03-23 11:32:04  Target volume changed by user: 60 -> 59
+
+2026-03-23 11:32:04  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). Script has enforced the level: 60 -> 59
+Windows Communications ducking: do nothing
+likely source: Voicemeeter (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  PhoneExperienceHost.exe pid:11148
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+
+2026-03-23 11:32:18  Playback device: Головной телефон (USBC Headset). Script has enforced the level: 60 -> 59
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:17976
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 15964, 16116, 17660, 18700, 18840, 19316, 19452, 19864
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+
+2026-03-23 12:08:16  Playback device: Головной телефон (USBC Headset). State at script startup: volume=59
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 16116, 16436, 17660, 18840, 19316, 19452, 19864, 22668
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:17976
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 16116, 16436, 17660, 18840, 19316, 19452, 19864, 22668
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 12:08:16  Playback device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 59 -> 100
+
+2026-03-23 12:08:19  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). State at script startup: volume=59
+Windows Communications ducking: do nothing
+likely source: Voicemeeter (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 16116, 16436, 17660, 18840, 19316, 19452, 19864, 22668
+  PhoneExperienceHost.exe pid:11148
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 16116, 16436, 17660, 18840, 19316, 19452, 19864, 22668
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 12:08:19  Playback device: Voicemeeter Input (VB-Audio Voicemeeter VAIO). Script has corrected at startup: volume: 59 -> 100
+
+2026-03-23 12:08:47  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 20
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 16116, 16436, 17660, 18840, 19316, 19452, 19864, 22668
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:17976
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 16116, 16436, 17660, 18840, 19316, 19452, 19864, 22668
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 12:08:47  Playback device: Головной телефон (USBC Headset). Script has restored the level: 20 -> 100
+
+2026-03-23 12:08:56  Target volume changed by user: 100 -> 43
+
+2026-03-23 12:09:09  Playback device: Головной телефон (USBC Headset). Script has enforced the level: 100 -> 43
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5188
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 16116, 16436, 17660, 18840, 19316, 19452, 19864, 22668
+  rundll32.exe pid:16180
+  SystemSettings.exe pid:6936
+  voicemeeter8x64.exe pid:17976
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5188
+  path: -
+  firefox.exe pid:2248, 2772, 4948, 7624, 10824, 12356, 12804, 14772, 15584, 16116, 16436, 17660, 18840, 19316, 19452, 19864, 22668
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:11148
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:16180
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:6936
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:17976
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+
+2026-03-23 12:28:00  Playback device: Головной телефон (USBC Headset). State at script startup: volume=94
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 1780, 2012, 2124, 2680, 4084, 6972, 9076, 9988, 12676, 18524, 18536, 18920, 18988, 19944, 20652, 20672
+  rundll32.exe pid:19124
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 1780, 2012, 2124, 2680, 4084, 6972, 9076, 9988, 12676, 18524, 18536, 18920, 18988, 19944, 20652, 20672
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:19124
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 12:28:00  Playback device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 94 -> 100
+
+2026-03-23 12:28:37  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 1780, 2012, 2124, 2680, 4084, 6972, 9076, 9988, 12676, 18524, 18536, 18920, 18988, 19944, 20652, 20672
+  rundll32.exe pid:19124
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 1780, 2012, 2124, 2680, 4084, 6972, 9076, 9988, 12676, 18524, 18536, 18920, 18988, 19944, 20652, 20672
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:19124
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 12:28:37  Playback device: Головной телефон (USBC Headset). Script has restored the level: 98 -> 100
+
+2026-03-23 12:28:47  Target volume changed by user: 100 -> 63
+
+2026-03-23 12:28:58  Playback device: Головной телефон (USBC Headset). Script has enforced the level: 100 -> 63
+Windows Communications ducking: do nothing
+likely source: Phone Link (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 1780, 2012, 2124, 2680, 4084, 6972, 9076, 9988, 12676, 18524, 18536, 18920, 18988, 19944, 20652, 20672
+  rundll32.exe pid:19124
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 1780, 2012, 2124, 2680, 4084, 6972, 9076, 9988, 12676, 18524, 18536, 18920, 18988, 19944, 20652, 20672
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:19124
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+
+2026-03-23 14:20:54  Playback device: Головной телефон (USBC Headset). State at script startup: volume=56
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings (background UI detected)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 9988, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944
+  PhoneExperienceHost.exe pid:15868
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 9988, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:19124
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 14:20:54  Playback device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 56 -> 100
+
+2026-03-23 14:21:29  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 96
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings (background UI detected)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 9988, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944
+  PhoneExperienceHost.exe pid:15868
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 9988, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 14:21:29  Playback device: Головной телефон (USBC Headset). Script has restored the level: 96 -> 100
+
+2026-03-23 14:22:21  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 96
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings (background UI detected)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 9988, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944
+  PhoneExperienceHost.exe pid:15868
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 9988, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 14:22:21  Playback device: Головной телефон (USBC Headset). Script has restored the level: 96 -> 100
+
+2026-03-23 14:22:52  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 96
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings (background UI detected)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 9988, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944
+  PhoneExperienceHost.exe pid:15868
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 9988, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 14:22:52  Playback device: Головной телефон (USBC Headset). Script has restored the level: 96 -> 100
+
+2026-03-23 14:44:24  Playback device: Головной телефон (USBC Headset). State at script startup: volume=98
+Windows Communications ducking: do nothing
+likely source: physical device button or manual volume slider (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 14:44:24  Playback device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 98 -> 100
+
+2026-03-23 14:44:37  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+Windows Communications ducking: do nothing
+likely source: physical device button or manual volume slider (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 14:44:37  Playback device: Головной телефон (USBC Headset). Script has restored the level: 98 -> 100
+
+2026-03-23 14:45:00  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings (background UI detected)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  PhoneExperienceHost.exe pid:15868
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5524
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 14:45:00  Playback device: Головной телефон (USBC Headset). Script has restored the level: 98 -> 100
+
+2026-03-23 14:45:31  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 98
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings (background UI detected)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  PhoneExperienceHost.exe pid:15868
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5524
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 14:45:31  Playback device: Головной телефон (USBC Headset). Script has restored the level: 98 -> 100
+
+2026-03-23 14:46:02  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 96
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings (background UI detected)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  PhoneExperienceHost.exe pid:15868
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5524
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 14:46:02  Playback device: Головной телефон (USBC Headset). Script has restored the level: 96 -> 100
+
+2026-03-23 14:46:22  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 40
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings (background UI detected)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  PhoneExperienceHost.exe pid:15868
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3980, 4084, 6972, 9076, 12676, 13940, 18524, 18536, 18920, 18988, 19352, 19944, 21620
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5524
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 14:46:22  Playback device: Головной телефон (USBC Headset). Script has restored the level: 40 -> 100
+
+2026-03-23 15:33:40  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 80
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings or physical device button (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:5524
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 15:33:40  Playback device: Головной телефон (USBC Headset). Script has restored the level: 80 -> 100
+
+2026-03-23 15:34:02  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 94
+Windows Communications ducking: do nothing
+likely source: physical device button or manual volume slider (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 15:34:02  Playback device: Головной телефон (USBC Headset). Script has restored the level: 94 -> 100
+
+2026-03-23 16:22:45  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 40
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings or physical device button (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 16:22:45  Playback device: Головной телефон (USBC Headset). Script has restored the level: 40 -> 100
+
+2026-03-23 16:23:07  Playback device: Головной телефон (USBC Headset). Sound volume level has been changed: 100 -> 20
+Windows Communications ducking: do nothing
+likely source: manual change via Windows sound settings or physical device button (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5088
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  PhoneExperienceHost.exe pid:15868
+  SystemSettings.exe pid:19232
+  voicemeeter8x64.exe pid:11940
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5088
+  path: -
+  firefox.exe pid:1596, 2012, 2124, 2680, 3352, 4084, 6972, 9076, 12676, 13940, 13992, 18524, 18536, 18920, 18988, 19944, 21620, 21792
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:15868
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  rundll32.exe pid:13760
+  path: C:\WINDOWS\system32\rundll32.exe
+  SystemSettings.exe pid:19232
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  voicemeeter8x64.exe pid:11940
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-23 16:23:07  Playback device: Головной телефон (USBC Headset). Script has restored the level: 20 -> 100
+
+2026-03-26 14:56:31  Playback device: Головной телефон (USBC Headset). State at script startup: volume=8
+Windows Communications ducking: do nothing
+likely source: physical device button or manual volume slider (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5276
+  chrome.exe pid:3716, 3720, 4860, 12620, 13320, 14772, 15988, 17924, 18720, 19544, 23252, 24968, 27048, 27836, 30692, 32064, 34896, 35428, 35644, 39072, 39456
+  firefox.exe pid:848, 1036, 2296, 3752, 12796, 13788, 14868, 21292, 24040, 29120, 32052, 32304, 32960, 34156, 36160, 38340, 38520, 38596
+  SystemSettings.exe pid:21520
+  vivaldi.exe pid:1284, 10404, 11900, 13688, 16488, 17956, 18016, 19020, 29152, 31364, 33836, 33928, 34264, 35888
+  voicemeeter8x64.exe pid:20916
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5276
+  path: -
+  chrome.exe pid:3716, 3720, 4860, 12620, 13320, 14772, 15988, 17924, 18720, 19544, 23252, 24968, 27048, 27836, 30692, 32064, 34896, 35428, 35644, 39072, 39456
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  firefox.exe pid:848, 1036, 2296, 3752, 12796, 13788, 14868, 21292, 24040, 29120, 32052, 32304, 32960, 34156, 36160, 38340, 38520, 38596
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  SystemSettings.exe pid:21520
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  vivaldi.exe pid:1284, 10404, 11900, 13688, 16488, 17956, 18016, 19020, 29152, 31364, 33836, 33928, 34264, 35888
+  path: C:\Users\musor\AppData\Local\Vivaldi\Application\vivaldi.exe
+  voicemeeter8x64.exe pid:20916
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+2026-03-26 14:56:31  Playback device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 8 -> 100
+
+2026-03-29 11:55:32  Playback device: Головной телефон (USBC Headset). State at script startup: volume=38
+Windows Communications ducking: do nothing
+likely source: Yandex Telemost (heuristic)
+confidence: low
+foreground process: unknown
+other candidates:
+  audiodg.exe pid:5076
+  firefox.exe pid:3060, 3176, 3596, 8356, 9140, 9532, 12156, 13564, 15248, 16460, 17444, 18608, 18732, 22320, 22736, 26064, 27792, 28872, 40612, 44988, 45636, 45912
+  PhoneExperienceHost.exe pid:37420
+  SystemSettings.exe pid:35268
+  vivaldi.exe pid:3668, 5564, 5592, 16168, 17932, 20172, 28128, 31340, 31872, 32588, 33864, 35680, 36232, 41464, 44820
+  voicemeeter8x64.exe pid:8348
+sessions on endpoint: none
+running suspects:
+  audiodg.exe pid:5076
+  path: -
+  firefox.exe pid:3060, 3176, 3596, 8356, 9140, 9532, 12156, 13564, 15248, 16460, 17444, 18608, 18732, 22320, 22736, 26064, 27792, 28872, 40612, 44988, 45636, 45912
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  PhoneExperienceHost.exe pid:37420
+  path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+  SystemSettings.exe pid:35268
+  path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+  vivaldi.exe pid:3668, 5564, 5592, 16168, 17932, 20172, 28128, 31340, 31872, 32588, 33864, 35680, 36232, 41464, 44820
+  path: C:\Users\musor\AppData\Local\Vivaldi\Application\vivaldi.exe
+  voicemeeter8x64.exe pid:8348
+  path: C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe
+  YandexTelemost.exe pid:26896
+  path: C:\Program Files\Yandex\YandexTelemost\YandexTelemost.exe
+2026-03-29 11:55:32  Playback device: Головной телефон (USBC Headset). Script has corrected at startup: volume: 38 -> 100
+

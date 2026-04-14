@@ -1,0 +1,246 @@
+Скрипт предназначен для мониторинга, анализа и контроля уровня громкости микрофонных устройств в Windows 11.
+
+Что делает скрипт:
+=1. Непрерывно отслеживает уровень громкости для трёх устройств записи:
+   - Krisp Microphone
+   - Voicemeeter Out B1
+   - физический микрофон, имя которого содержит "USBC Headset"
+
+=2. При запуске проверяет уровень громкости и состояние mute для каждого из трёх устройств.
+   Если уровень громкости меньше 100% — устанавливает 100%.
+   Если устройство заглушено (muted) — снимает заглушение (unmute).
+   Для физического микрофона USBC Headset эта коррекция выполняется только тогда,
+   когда настройка Krisp "Lock microphone volume at optimal level" отключена.
+   Логика соответствует поведению во время работы скрипта: Krisp сам управляет
+   уровнем физического микрофона, когда эта настройка включена.
+
+=3. Фиксирует любое изменение уровня громкости и пишет это в лог-файл.
+
+=4. Пытается определить наиболее вероятный источник изменения уровня громкости. Почему вероятный, а не 100%-й см. в файле "ChangeMicVolumeDetector Ограничения.txt".
+
+=5. Выводит в консоль и логирует:
+   - имя микрофонного устройства
+   - предыдущее и новое значение громкости
+   - likely source
+   - confidence
+   - other candidates
+   - список активных аудиосессий на endpoint
+   - список подозрительных процессов, запущенных в момент события
+
+=6. Воспроизводит звуковой сигнал при каждом зафиксированном изменении громкости.
+
+=7. При необходимости автоматически восстанавливает уровень громкости до 100%.
+
+=8. Управляет уровнем физического микрофона с учетом работы Krisp
+
+Проверяет настройку Krisp "Lock microphone volume at optimal level" через файл:
+   %LOCALAPPDATA%\Krisp\...\user.config
+
+   Используется параметр:
+   LockUpVolumeForMic
+
+   Логика интерпретации значения:
+   - значение > 0 — галочка включена
+   - значение = 0 — галочка выключена
+
+Проверка выполняется в двух случаях:
+1. Раз в 2 секунды — плановая проверка.
+2. При обнаружении изменения громкости на USBC Headset — немедленная внеплановая проверка,
+   выполняется перед вычислением эвристики.
+   Это устраняет гонку состояний: Krisp может изменить громкость физического микрофона
+   в той же итерации, в которой включается настройка — до того как 2-секундный таймер
+   успеет её зафиксировать. Без этой проверки эвристика получала бы устаревшее значение
+   $KrispLockPhysicalMicVolume и неверно определяла источник.
+
+Если состояние настройки Krisp изменилось по сравнению с предыдущей проверкой, скрипт пишет в лог и консоль:
+   Krisp setting changed: "Lock microphone volume at optimal level" enabled
+   или
+   Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+Особенность для физического микрофона USBC Headset:
+Скрипт автоматически читает значение из user.config и на его основе устанавливает переменную:
+$KrispLockPhysicalMicVolume
+
+Логика работы:
+- если настройка Krisp включена (LockUpVolumeForMic > 0),
+  скрипт только сообщает об изменении уровня USBC Headset, но не восстанавливает его и не снимает mute
+- если настройка Krisp выключена (LockUpVolumeForMic = 0),
+  скрипт автоматически возвращает уровень USBC Headset на 100% и снимает mute (если заглушено)
+  Это поведение применяется как при старте скрипта (п. =2), так и в процессе работы.
+
+=9. Как определяется вероятный источник
+Скрипт использует многоуровневую эвристику.
+
+Приоритеты:
+1. Если у устройства есть активная audio session, она считается наиболее сильной уликой.
+   В этом случае источник может быть определён как:
+   - Teams audio session
+   - Krisp audio session
+   - Yandex Telemost audio session
+   - Phone Link audio session
+   - Yandex Browser audio session
+   - Chrome audio session
+   - Firefox audio session
+   - Vivaldi audio session
+   - Opera audio session
+   - Microsoft Edge audio session
+   - либо как generic audio session on endpoint
+
+2. Если активной session нет, скрипт проверяет foreground process.
+   Если foreground process — один из системных процессов настройки звука Windows
+   (rundll32.exe, control.exe, SystemSettings.exe),
+   источник определяется как:
+   manual change via Windows sound settings
+   confidence: medium
+
+3. Если rundll32.exe или control.exe запущены в фоне (не foreground):
+   manual change via Windows sound settings
+   confidence: low
+
+   SystemSettings.exe намеренно исключён из фонового списка: Windows 11 держит его
+   в памяти постоянно, что делает его непригодным как сигнал ручного изменения.
+
+   Этот приоритет стоит ВЫШЕ comm-app эвристик (пп. 4–5): наличие процесса mmsys.cpl
+   является более прямым признаком ручного изменения, чем просто запущенное приложение.
+
+4. Если активной session нет, foreground process не указывает на ручное изменение,
+   Krisp запущен и Label = USBC Headset, скрипт считает Krisp кандидатом в двух случаях:
+
+   а) Настройка "Lock microphone volume at optimal level" включена (enabled):
+      Krisp удерживает уровень физического микрофона.
+      confidence: low
+
+   б) Настройка была изменена в течение последних 15 секунд:
+      Krisp мог изменить уровень при включении флага (захват уровня)
+      или при выключении флага (отпускание уровня).
+      confidence: medium
+
+   В обоих случаях источник определяется как:
+   Krisp sync or AGC (heuristic)
+
+   Если настройка выключена (disabled) И не менялась в последние 15 секунд —
+   Krisp физически не может влиять на уровень и полностью выбывает из кандидатов.
+
+5. Если активной session нет и ни одна из эвристик выше не сработала,
+   но запущены отдельные потенциально влияющие приложения,
+   скрипт может определить источник как heuristic source:
+   - Teams (только для устройства Voicemeeter Out B1)
+   - Yandex Telemost
+
+   Phone Link намеренно исключён: он почти всегда запущен в фоне,
+   что делает его бесполезным как эвристический сигнал.
+   Он по-прежнему отображается в running suspects.
+
+6. Браузеры (Yandex Browser, Chrome, Firefox, Vivaldi, Opera, Microsoft Edge)
+   не определяются как likely source только по факту запуска.
+   Без активной audio session они остаются в списках:
+   - other candidates
+   - running suspects
+
+7. Если однозначно определить источник нельзя,
+   скрипт показывает:
+   - likely source: unknown
+   - confidence: low
+   - foreground process
+   - other candidates
+
+Какие процессы учитываются как подозрительные:
+- Krisp
+- Teams / ms-teams
+- Discord
+- Zoom
+- все процессы Voicemeeter
+- YandexTelemost
+- PhoneExperienceHost (Phone Link)
+- browser.exe (Яндекс Браузер)
+- chrome
+- firefox
+- vivaldi
+- opera
+- msedge
+- audiodg
+- системные процессы настройки звука Windows
+
+Важно:
+Определение источника не является 100%-точным.
+Скрипт делает вывод по косвенным признакам:
+- audio sessions
+- foreground process
+- запущенные процессы
+- состояние настройки Krisp
+Поэтому значения likely source и confidence нужно воспринимать как диагностическую оценку, а не как строгое доказательство.
+
+=10. Формат вывода на экран и в лог-файл
+Особенности группировки вывода:
+1. Одинаковые процессы группируются.
+   Например, вместо множества строк по firefox.exe выводится одна строка с перечнем PID.
+
+2. Если у процесса PID больше трёх и информация выводится на экран,
+   список PID сокращается до компактного вида:
+   firefox.exe pid:6488,... 29676
+
+3. На экран выводятся только:
+   - имя процесса
+   - PID
+   - likely source
+   - confidence
+   - foreground process
+   - sessions on endpoint
+   - running suspects
+
+4. Пути к исполняемым файлам на экран не выводятся.
+   Они записываются только в лог-файл.
+
+5. Блок other candidates выводится только в лог-файл,
+   чтобы не перегружать консоль.
+
+Формат записей в лог-файле:
+- если при запуске скрипт обнаружил отклонение (volume < 100% или muted) и исправил его:
+  Microphone device: <имя>. State at script startup: volume=<значение>, muted
+  Microphone device: <имя>. Script has corrected at startup: volume: <старое> -> <новое>, unmuted
+
+  Если отклонение только по громкости:
+  Microphone device: <имя>. State at script startup: volume=<значение>
+  Microphone device: <имя>. Script has corrected at startup: volume: <старое> -> <новое>
+
+  Если отклонение только по mute:
+  Microphone device: <имя>. State at script startup: volume=100, muted
+  Microphone device: <имя>. Script has corrected at startup: unmuted
+
+  Если скрипту не удалось исправить отклонение:
+  Microphone device: <имя>. Script has corrected at startup: volume restore failed: remained <значение>
+  или
+  Microphone device: <имя>. Script has corrected at startup: unmute failed
+
+- если уровень изменило внешнее приложение или пользователь:
+  Microphone device: <имя>. Sound volume level has been changed: <старое значение> -> <новое значение>
+
+- если скрипт восстановил уровень:
+  Microphone device: <имя>. Script has restored the level: <текущее значение> -> <новое значение>
+
+- если скрипт попытался восстановить уровень, но фактически он не изменился:
+  Microphone device: <имя>. Script attempted to restore the level, but it remained unchanged: <значение>
+
+- если скрипт только наблюдает и не вмешивается:
+  Microphone device: <имя>. Script action: monitor-only. Level remains: <значение>
+
+- если скрипт выполнил принудительное выравнивание уровня:
+  Microphone device: <имя>. Script has enforced the level: <текущее значение> -> 100
+
+- если скрипт зафиксировал изменение настройки Krisp:
+  Krisp setting changed: "Lock microphone volume at optimal level" enabled
+  или
+  Krisp setting changed: "Lock microphone volume at optimal level" disabled
+
+=11. Структура файлов и зависимости
+Скрипт состоит из двух файлов:
+   ChangeMicVolumeDetector.ps1  — логика мониторинга микрофонов (Krisp, Voicemeeter Out B1, USBC Headset)
+   AudioUtils.ps1               — общая библиотека функций, подключается через . "$PSScriptRoot\AudioUtils.ps1"
+
+AudioUtils.ps1 должен находиться в той же папке, что и ChangeMicVolumeDetector.ps1.
+AudioUtils.ps1 также используется скриптом ChangePlaybackVolumeDetector.ps1.
+
+Модуль PowerShell AudioDeviceCmdlets.
+   Он нужен для доступа к аудиоустройствам Windows и управления их уровнем громкости.
+   Установка:
+   Install-Module -Name AudioDeviceCmdlets

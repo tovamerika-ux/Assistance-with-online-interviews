@@ -1,0 +1,52 @@
+@startuml
+title Audio graph (Teams or Phone Link, Discord; HW: no audio interface, USB-headset)
+
+skinparam componentStyle rectangle
+
+rectangle "Voicemeeter Input\n-Windows Default Playback Device\n(Fader Gain amplifies system+remote\nand affects loopback listeners)" as VM_INPUT
+
+rectangle "Stereo Input 1\n(Krisp Microphone)" as SI1
+rectangle "Stereo Input 2\n(USBC Headset Mic - RAW)" as SI2
+
+rectangle "Voicemeeter Out B1\n(Mic only)\n-Windows Default Recording" as B1
+rectangle "Voicemeeter Out B2\n(RAW mic)\n(Capture device)" as B2
+rectangle "Voicemeeter Out B3\n(System+Remote (+Mic optional))\n(Capture device)" as B3
+
+rectangle "A1 -> USBC Headset\n(Headphones)" as A1
+
+rectangle "Teams / Phone Link\nMic IN" as CALL_MIC
+rectangle "Teams / Phone Link\nSpeaker OUT" as CALL_SPK
+
+rectangle "ShadowHint\nMic = selectable\nRemote = loopback default playback" as SH
+rectangle "Sobes Copilot" as SOBES
+rectangle "OBS" as OBS
+rectangle "Discord" as DISCORD
+
+
+' --- Mic path ---
+SI1 --> B1
+SI2 --> B2
+B1 --> CALL_MIC
+
+' (optional) mic into Discord mix:
+SI1 --> B3
+
+' --- Remote/System path ---
+CALL_SPK --> VM_INPUT : Call Speaker\n= Voicemeeter Input
+VM_INPUT --> A1
+
+' remote/system into Discord mix:
+VM_INPUT --> B3
+
+' --- Distribution of amplified system+remote ---
+VM_INPUT --> SH
+B1 --> SH
+
+B1 --> SOBES
+VM_INPUT --> SOBES
+B1 --> OBS
+VM_INPUT --> OBS
+
+B3 --> DISCORD : Discord Input\n= Voicemeeter Out B3
+
+@enduml

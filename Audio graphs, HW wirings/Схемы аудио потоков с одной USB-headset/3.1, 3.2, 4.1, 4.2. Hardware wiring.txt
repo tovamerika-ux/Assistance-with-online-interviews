@@ -1,0 +1,15 @@
+@startuml
+title Hardware wiring (Teams + Discord, no Phone Link; HW: no audio interface, USB-headset)
+left to right direction
+
+rectangle "USB Headset\n(Mic + Headphones)" as HS
+rectangle "PC / Laptop" as PC
+
+HS --> PC : USB
+
+note bottom of HS
+Single USB device.
+Mic and headphones
+used separately in software.
+end note
+@enduml

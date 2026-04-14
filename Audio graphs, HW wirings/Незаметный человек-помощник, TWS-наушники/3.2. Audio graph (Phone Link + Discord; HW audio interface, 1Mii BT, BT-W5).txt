@@ -1,0 +1,57 @@
+@startuml
+title Audio graph (Phone Link + Discord; HW: audio interface, 1Mii BT, BT-W5)
+
+rectangle "XLR Microphone" as MIC
+rectangle "Audio Interface" as AI
+rectangle "Krisp Microphone" as KRISP
+
+rectangle "Voicemeeter Input\n-Windows Default Playback Device" as VM_INPUT
+rectangle "Phone Link remote audio" as PL
+
+rectangle "Stereo Input 1\n(Krisp Microphone)" as SI1
+
+rectangle "Voicemeeter Out B1 (Mic only)\n-Windows Default Recording Device" as B1
+rectangle "Voicemeeter Out B3 (Mic + System/Remote)" as B3
+
+rectangle "A1 -> 1Mii BT -> TWS #1 (Calls)" as A1
+rectangle "Discord Output -> BT-W5 -> TWS #2" as D_OUT
+
+rectangle "Sobes Copilot" as SOBES
+rectangle "OBS" as OBS
+rectangle "ShadowHint Mic" as SH_MIC
+rectangle "ShadowHint Remote" as SH_REM
+
+note as NOTE_B2
+System/Remote-only means:
+everything that reaches
+Windows Default Playback
+(Voicemeeter Input).
+Phone Link cannot be
+isolated per-app.
+end note
+
+
+MIC --> AI
+AI --> KRISP
+KRISP --> SI1
+
+PL --> VM_INPUT
+
+SI1 --> B1
+SI1 --> B3
+
+VM_INPUT --> SOBES
+VM_INPUT --> OBS
+VM_INPUT --> B3
+VM_INPUT --> A1
+
+B1 --> SOBES
+
+
+B1 --> OBS
+
+B3 --> D_OUT
+
+B1 --> SH_MIC
+VM_INPUT --> SH_REM
+@enduml

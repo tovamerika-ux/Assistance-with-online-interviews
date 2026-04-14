@@ -1,0 +1,27 @@
+@startuml
+title Hardware wiring (Phone Link, no Discord;no AI; HW: no audio interface, 1x BT-W5)
+left to right direction
+
+rectangle "USB Mic" as MIC
+rectangle "PC (USB host)" as PC
+
+rectangle "Creative BT-W5\n(USB)" as BTW5
+rectangle "TWS\n(Calls monitoring)" as TWS
+
+
+
+MIC --> PC : USB
+
+PC --> BTW5 : USB
+
+
+BTW5 --> TWS : Bluetooth audio
+
+
+note bottom of TWS
+Listening only.
+Mic is NOT taken
+from BT device.
+end note
+
+@enduml
