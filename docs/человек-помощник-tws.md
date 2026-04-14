@@ -285,7 +285,7 @@ Teams/Яндекс-Телемост/Zoom, Discord, ShadowHint, Sobes Copilot, OB
 - 🟢 3.1. (Phone Link + Discord; HW: no audio interface, 2x BT-W5)
 - 🟣 3.1B. (Phone Link + Discord; HW: no audio interface, 1x BT-W5)
 - 🔵 3.2. (Phone Link + Discord; HW: audio interface, 1Mii BT, BT-W5)
-- 🟢 3.3. (Phone Link + Discord; HW: audio interface, 2x BT-W5)
+- 🟡 3.3. (Phone Link + Discord; HW: audio interface, 2x BT-W5)
 
 Система №2:
 - 4.1. (Teams + Discord, no Phone Link; HW: no audio interface, 2x BT-W5)
@@ -296,7 +296,7 @@ Teams/Яндекс-Телемост/Zoom, Discord, ShadowHint, Sobes Copilot, OB
 - 4.2. (Teams + Discord; HW: audio interface, 1Mii BT, BT-W5)
   - 🔵 *разновидность:* (Teams + Discord, no Phone Link, Default Playback = VM AUX Input; HW: audio interface, 1Mii BT, BT-W5)
 - 4.3. (Teams + Discord; HW: audio interface, 2x BT-W5)
-  - 🟢 *разновидность:* (Teams + Discord, no Phone Link, Default Playback = VM AUX Input; HW: audio interface, 2x BT-W5)
+  - 🟡 *разновидность:* (Teams + Discord, no Phone Link, Default Playback = VM AUX Input; HW: audio interface, 2x BT-W5)
 
 Коды конфигураций нужны для того, чтобы можно было анализировать данный
 документ при помощи нейронки.
